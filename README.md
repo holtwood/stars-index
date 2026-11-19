@@ -2,27 +2,27 @@
 
 > 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists](https://github.com/holtwood?tab=stars) 同步
 
-![项目数](https://img.shields.io/badge/Star_项目-1379-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--10--28-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
+![项目数](https://img.shields.io/badge/Star_项目-1387-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--11--19-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
 
-> 📈 **1379** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
+> 📈 **1387** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
 
 ## 🔥 最近收藏
 
+- ⭐ [guotree/magpie-websearch](https://github.com/guotree/magpie-websearch) — 给 magpie 更多搜索方式：一个插件，持续接入更多搜索 API。More web search for magpie… `2026-11-08`
+- ⭐ [TooonyChen/finallyshell](https://github.com/TooonyChen/finallyshell) — 类finalshell的ssh客户端 // An source-available finalshell copy, w… `2026-11-08`
+- ⭐ [wxyhgk/retain-pdf](https://github.com/wxyhgk/retain-pdf) — 在保留版面、公式与结构的前提下进行 PDF 翻译，适用于科研与技术文档 `2026-11-06`
+- ⭐ [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) — A free, source-available and fair-code licensed mac app clea… `2026-11-04`
+- ⭐ [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) — Move and resize windows on macOS with keyboard shortcuts and… `2026-11-04`
+- ⭐ [aonez/Keka](https://github.com/aonez/Keka) — The macOS & iOS file archiver `2026-11-04`
+- ⭐ [thaw-app/Thaw](https://github.com/thaw-app/Thaw) — The open source menu bar manager `2026-11-04`
+- ⭐ [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) — Mooncake is the serving platform for Kimi, a leading LLM ser… `2026-10-31`
+- ⭐ [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book) — 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推… `2026-10-30`
+- ⭐ [Saivineeth147/lora-speedrun](https://github.com/Saivineeth147/lora-speedrun) — Speedrunning LoRA fine-tuning: frozen task, frozen hardware,… `2026-10-28`
 - ⭐ [gpu-mode/reference-kernels](https://github.com/gpu-mode/reference-kernels) — Official Problem Sets / Reference Kernels for the GPU MODE L… `2026-10-21`
 - ⭐ [flagos-ai/FlagGems-sglang](https://github.com/flagos-ai/FlagGems-sglang) — FlagGems-sglang is part of FlagOS. It is a high-performance… `2026-10-21`
 - ⭐ [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) — DeepInfer: High-performance, large-scale inference framework… `2026-10-20`
 - ⭐ [deepseek-ai/deepseek-recipe](https://github.com/deepseek-ai/deepseek-recipe) —  `2026-10-20`
 - ⭐ [looplj/axonhub](https://github.com/looplj/axonhub) — ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. B… `2026-10-20`
-- ⭐ [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) — Vibe code with pi in a lightweight, real IDE that customises… `2026-10-19`
-- ⭐ [yetone/magpie](https://github.com/yetone/magpie) — Every agent's model. One place. Codex on DeepSeek, Claude Co… `2026-10-09`
-- ⭐ [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) — Let AI agents use your real, logged-in browser without inter… `2026-10-08`
-- ⭐ [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) — 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabin… `2026-10-01`
-- ⭐ [angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool) — Activation & Lifecycle State Maintenance Toolkit `2026-09-27`
-- ⭐ [czm15053/write-notes-like-deepseek](https://github.com/czm15053/write-notes-like-deepseek) — 像 DeepSeek 团队一样沉淀 Agent Notes——决策、取舍与验证一处留痕，半年后仍可追溯。可叠加到任何仓库 `2026-09-26`
-- ⭐ [atuinsh/atuin](https://github.com/atuinsh/atuin) — ✨ Making your shell magical `2026-09-26`
-- ⭐ [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) — BookOrbit: Your Reading Space `2026-09-26`
-- ⭐ [Dailin521/codex-provider-sync](https://github.com/Dailin521/codex-provider-sync) — Synchronize Codex session provider metadata across rollout f… `2026-09-26`
-- ⭐ [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) — Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSe… `2026-09-23`
 
 ## 📑 分类导航
 
@@ -32,7 +32,7 @@
 | ☁️ DevOps 与云原生 | 26 | `█░░░░░░░░░░░░░░░` (2%) | [docs/devops.md](docs/devops.md) |
 | 🧩 语言生态 | 258 | `███░░░░░░░░░░░░░` (19%) | [docs/lang.md](docs/lang.md) |
 | 🎨 前端与 Web | 85 | `█░░░░░░░░░░░░░░░` (6%) | [docs/frontend.md](docs/frontend.md) |
-| ⌨️ CLI 与终端 | 129 | `█░░░░░░░░░░░░░░░` (9%) | [docs/cli.md](docs/cli.md) |
+| ⌨️ CLI 与终端 | 127 | `█░░░░░░░░░░░░░░░` (9%) | [docs/cli.md](docs/cli.md) |
 | 🗄️ 数据库与存储 | 13 | `█░░░░░░░░░░░░░░░` (1%) | [docs/storage.md](docs/storage.md) |
 | 🔐 安全与逆向 | 3 | `█░░░░░░░░░░░░░░░` (0%) | [docs/security.md](docs/security.md) |
 | 🌐 网络与代理 | 40 | `█░░░░░░░░░░░░░░░` (3%) | [docs/net.md](docs/net.md) |
@@ -44,13 +44,13 @@
 | ⚡ 高性能计算 | 5 | `█░░░░░░░░░░░░░░░` (0%) | [docs/hpc.md](docs/hpc.md) |
 | 🗜️ 压缩与编码 | 3 | `█░░░░░░░░░░░░░░░` (0%) | [docs/compression.md](docs/compression.md) |
 | 🧬 生物信息 | 51 | `█░░░░░░░░░░░░░░░` (4%) | [docs/bio.md](docs/bio.md) |
-| 📚 学习资源与清单 | 225 | `███░░░░░░░░░░░░░` (16%) | [docs/learning.md](docs/learning.md) |
+| 📚 学习资源与清单 | 224 | `███░░░░░░░░░░░░░` (16%) | [docs/learning.md](docs/learning.md) |
 | 🎯 面试资料 | 15 | `█░░░░░░░░░░░░░░░` (1%) | [docs/interview.md](docs/interview.md) |
-| 📦 其他与杂项 | 85 | `█░░░░░░░░░░░░░░░` (6%) | [docs/misc.md](docs/misc.md) |
+| 📦 其他与杂项 | 96 | `█░░░░░░░░░░░░░░░` (7%) | [docs/misc.md](docs/misc.md) |
 
 ## 📊 快速入口
 
-- 📦 [全量索引(1379)](docs/all.md) — 所有项目按 ⭐ 排序
+- 📦 [全量索引(1387)](docs/all.md) — 所有项目按 ⭐ 排序
 - 🗣️ [按语言浏览](docs/by-language.md) — 语言分布一览
 
 ## 🔄 自动同步

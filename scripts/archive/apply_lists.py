@@ -34,7 +34,7 @@ add_map = {
     'CLI与终端工具': ['reubeno/brush', 'manaflow-ai/cmux', 'LoosePrince/cursor-zh-cn-pack'],
     '编辑器与文档笔记': ['vrtmrz/obsidian-livesync'],
     '移动开发': ['mudkipme/MoeMemosAndroid'],
-    '学习资源与清单': ['DigitalPlatDev/FreeDomain', 'open-genomics/awesome-bioinfo-algorithms',
+    '学习资源与清单': ['DigitalPlatDev/FreeDomain', 'holtwood-genomics/awesome-bioinfo-algorithms',
                       'holtwood/awesome-compression'],
 }
 

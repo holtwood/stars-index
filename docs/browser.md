@@ -6,16 +6,16 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [refined-github/refined-github](https://github.com/refined-github/refined-github) | ⭐ 32.4k | TypeScript | :octocat: 一款简化 GitHub 界面并新增实用功能的浏览器扩展 |
+| [refined-github/refined-github](https://github.com/refined-github/refined-github) | ⭐ 32.5k | TypeScript | :octocat: 一款简化 GitHub 界面并新增实用功能的浏览器扩展 |
 | [ovity/octotree](https://github.com/ovity/octotree) | ⭐ 23.3k | JavaScript | 能力超强增强版GitHub |
-| [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) | ⭐ 7.5k |  | 我终于能用谷歌搜中文了…… |
+| [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) | ⭐ 7.4k |  | 我终于能用谷歌搜中文了…… |
 | [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) | ⭐ 6.1k | JavaScript | 使用Google、Bing或Yandex实时翻译你的页面 |
-| [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) | ⭐ 5.7k | TypeScript | ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展 |
-| [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) | ⭐ 4.5k | TypeScript | AdGuard 浏览器扩展 |
+| [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) | ⭐ 5.9k | TypeScript | ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展 |
+| [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) | ⭐ 4.6k | TypeScript | AdGuard 浏览器扩展 |
 | [molvqingtai/WebChat](https://github.com/molvqingtai/WebChat) | ⭐ 2.6k | TypeScript | 💬 在任意网站与任何人聊天。 |
 | [liminalpurr/jizhi](https://github.com/liminalpurr/jizhi) | ⭐ 1.1k | JavaScript | 一款 Chrome/Firefox 扩展，提供自定义新标签页，内含中国古诗词，以及搭配传统中国配色的 P5.js 噪波动效 |
-| [10D24D/NiceFont](https://github.com/10D24D/NiceFont) | ⭐ 151 | JavaScript | NiceFont —— 一款优化网页字体显示的工具，让浏览更清晰、舒适！“真正调整字体，而非页面缩放，拒绝将就”！可直接修改网页的字体大小与风格，保存你的字体设… |
-| [bamf2077/userstyles](https://github.com/bamf2077/userstyles) | ⭐ 75 | SCSS | 一系列方便实用的用户样式表，如使用思源黑体或微软雅黑替换网页字体，适用于 Stylus、TM、油猴等浏览器扩展。 Various handy styleshee… |
+| [10D24D/NiceFont](https://github.com/10D24D/NiceFont) | ⭐ 150 | JavaScript | NiceFont —— 一款优化网页字体显示的工具，让浏览更清晰、舒适！“真正调整字体，而非页面缩放，拒绝将就”！可直接修改网页的字体大小与风格，保存你的字体设… |
+| [bamf2077/userstyles](https://github.com/bamf2077/userstyles) | ⭐ 74 | SCSS | 一系列方便实用的用户样式表，如使用思源黑体或微软雅黑替换网页字体，适用于 Stylus、TM、油猴等浏览器扩展。 Various handy styleshee… |
 | [dsivasuthan/change-all-ui-fonts](https://github.com/dsivasuthan/change-all-ui-fonts) | ⭐ 18 | JavaScript | 可将所有界面字体替换为用户指定字体的 Chrome 扩展。 |
 
 ---
