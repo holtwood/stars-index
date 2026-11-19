@@ -1,4 +1,4 @@
-# ⭐ StarsDB
+# ⭐ StarsIndex
 
 > 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists](https://github.com/holtwood?tab=stars) 同步
 

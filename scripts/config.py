@@ -1,4 +1,4 @@
-"""StarsDB 分类配置:GitHub Star Lists → 分类页映射
+"""StarsIndex 分类配置:GitHub Star Lists → 分类页映射
 
 维护方法:
 - GitHub Star Lists(28 个)通过 lists_meta.json 拉取
@@ -111,7 +111,7 @@ ALL_INDEX = 'all.md'
 LANG_INDEX = 'by-language.md'
 
 # 仓库基础信息
-REPO = 'stars-db'
+REPO = 'stars-index'
 OWNER = 'holtwood'
 STAR_LISTS_URL = 'https://github.com/holtwood?tab=stars'
 

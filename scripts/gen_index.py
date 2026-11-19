@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""生成 StarsDB 索引仓库内容（从 data/ 下的 GitHub API 数据）
+"""生成 StarsIndex 索引仓库内容（从 data/ 下的 GitHub API 数据）
 
 数据管线:
   scripts/fetch_stars.sh  → data/starred_full.json   (JSONL,每行一个 repo,含 starred_at)
@@ -283,7 +283,7 @@ def build_recent(repos, desc_zh, n=15):
 # ---------- 生成 README ----------
 def build_readme(total, counts, list_count, repos, desc_zh, today_str):
     readme = []
-    readme.append("# ⭐ StarsDB")
+    readme.append("# ⭐ StarsIndex")
     readme.append("")
     readme.append(f"> 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists]({STAR_LISTS_URL}) 同步")
     readme.append("")
@@ -503,7 +503,7 @@ def check_outputs():
 
 
 def main(argv=None):
-    parser = argparse.ArgumentParser(description='生成 StarsDB 索引')
+    parser = argparse.ArgumentParser(description='生成 StarsIndex 索引')
     parser.add_argument('--check', action='store_true',
                         help='用已提交的 data/stars.json 离线重建并与仓库产物逐字节比较')
     args = parser.parse_args(argv)
