@@ -223,12 +223,12 @@
 | [lulab/teaching_book_beta🟡](https://github.com/lulab/teaching_book_beta) | ⭐ 11 |  |  |
 | [TideTree/50projects50days-zh](https://github.com/TideTree/50projects50days-zh) | ⭐ 9 | CSS | 🎯 通过50个精心设计的前端项目掌握HTML5、CSS3、JavaScript技能 |
 | [zhaodahai/An-English-Guide-for-Programmers🔀](https://github.com/zhaodahai/An-English-Guide-for-Programmers) | ⭐ 8 |  | 专为程序员编写的英语学习指南。v1.0 |
-| [TideTree/awesome-zh](https://github.com/TideTree/awesome-zh) | ⭐ 6 |  | 📚 awesome 技术资源精选，优质项目与文章导航中文版 |
 | [open-infra-ai/cpp-high-performance-guide](https://github.com/open-infra-ai/cpp-high-performance-guide) | ⭐ 6 | C++ | 可运行的 C++20 性能工程指南：示例、基准测试与 VitePress 文档站 |
+| [TideTree/awesome-zh](https://github.com/TideTree/awesome-zh) | ⭐ 6 |  | 📚 awesome 技术资源精选，优质项目与文章导航中文版 |
 | [unclemcz/wodict](https://github.com/unclemcz/wodict) | ⭐ 6 | JavaScript | wodict是一个基于electron开发的网络环境下泛用型翻译（词典）工具，支持通过配置的方式接入百度翻译开放平台、网易有道翻译等。支持的语言由翻译引擎决定，… |
-| [TideTree/awesome-python-zh](https://github.com/TideTree/awesome-python-zh) | ⭐ 3 | Python | 🧠 Awesome-Python 精选Python教程资源中文版 |
 | [holtwood-projects/bitcal](https://github.com/holtwood-projects/bitcal) | ⭐ 3 | C++ | 纯头文件 C++23 位运算练习库，x86-64 + AVX2，实验性 |
 | [open-genomics/awesome-bioinfo-algorithms](https://github.com/open-genomics/awesome-bioinfo-algorithms) | ⭐ 3 | Python | 精选生物信息学算法知识库，含复杂度分析、CLI 维护工具与双语文档。 |
+| [TideTree/awesome-python-zh](https://github.com/TideTree/awesome-python-zh) | ⭐ 3 | Python | 🧠 Awesome-Python 精选Python教程资源中文版 |
 | [wtsnwei/TeachYourselfCS-CN🔀](https://github.com/wtsnwei/TeachYourselfCS-CN) | ⭐ 3 |  | TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS |
 | [holtwood/awesome-compression](https://github.com/holtwood/awesome-compression) | ⭐ 1 |  | 精选数据压缩（无损）算法、库、工具与学习资源，面向中文社区 |
 

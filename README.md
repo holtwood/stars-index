@@ -68,6 +68,8 @@ python3 scripts/fetch_lists.py
 python3 scripts/translate.py
 # 4. 重新生成 README 与 docs/
 python3 scripts/gen_index.py
+# 干净检出/无网络时：用已提交的 data/stars.json 离线重建并逐字节校验
+python3 scripts/gen_index.py --check
 ```
 
 > 💡 翻译结果缓存在 `data/desc_zh.json` 随仓库提交,新 star 项目翻译前以英文原文显示。

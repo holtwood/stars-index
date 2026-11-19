@@ -1,0 +1,27 @@
+name: Check Index
+
+# 无网络、无 PAT 的离线门禁：从已提交的 data/stars.json 重建全部产物，
+# 与仓库内的 README/docs/stars.json/_sidebar 逐字节比较。
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  offline-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Rebuild index from committed data
+        run: python3 scripts/gen_index.py --check

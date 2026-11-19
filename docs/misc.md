@@ -77,8 +77,8 @@
 | [johnnynunez/Xiaomi-Notebook-Air-1Gen](https://github.com/johnnynunez/Xiaomi-Notebook-Air-1Gen) | ⭐ 178 | ASL | 小米笔记本Air 第一代 |
 | [wtsnwei/pdsp](https://github.com/wtsnwei/pdsp) | ⭐ 126 | TeX | 《Personal Development for Smart People》的中文自译版 |
 | [yihui/hugo-prose](https://github.com/yihui/hugo-prose) | ⭐ 114 | HTML | A Hugo theme derived from the XMin theme, and inspired by Wowchemy, Distill, and… |
-| [ChinaSiro/PromPub.com](https://github.com/ChinaSiro/PromPub.com) | ⭐ 108 | Io |  |
 | [archibate/dotfiles-opencode](https://github.com/archibate/dotfiles-opencode) | ⭐ 108 | Python | Archibate 针对 OpenCode 的个人配置 |
+| [ChinaSiro/PromPub.com](https://github.com/ChinaSiro/PromPub.com) | ⭐ 108 | Io |  |
 | [cpulxb/WSL-Image-Clipboard-Helper](https://github.com/cpulxb/WSL-Image-Clipboard-Helper) | ⭐ 98 | Rust | 该工具用于在 Windows 中配合 WSL 环境下的 Claude Code、CodeX、OpenCode等 AI 工具，快速保存剪贴板图片并将其转换为 WS… |
 | [Ayi1337/gpt6-astra-one-shot-games](https://github.com/Ayi1337/gpt6-astra-one-shot-games) | ⭐ 57 | HTML | GPT-6 Astra 的 One Shot 游戏测试，包含原始 Prompt 与可直接运行的单文件 HTML。 |
 | [chaun-yi7/Clay](https://github.com/chaun-yi7/Clay) | ⭐ 54 | CSS | Clay —— 一款仿 Claude 审美的 Typora 主题，暖纸质感、明暗双色，克制耐看。 |
@@ -86,11 +86,11 @@
 | [flagos-ai/FlagGems-sglang](https://github.com/flagos-ai/FlagGems-sglang) | ⭐ 20 | Python | FlagGems-sglang is part of FlagOS. It is a high-performance operator library des… |
 | [holtwood-projects/cmdc-statusline](https://github.com/holtwood-projects/cmdc-statusline) | ⭐ 9 | TypeScript | 📊 Status line for Command Code (cmdc) — model · gradient context bar · cache hit… |
 | [yyxyz/OSOperateSkills](https://github.com/yyxyz/OSOperateSkills) | ⭐ 4 |  |  |
-| [holtwood-projects/chat-stash](https://github.com/holtwood-projects/chat-stash) | ⭐ 1 | HTML | Chrome 扩展一键保存 AI 聊天记录:Supabase 存储与全文检索 | Chrome extension to save AI chat histor… |
-| [holtwood-projects/wb2api](https://github.com/holtwood-projects/wb2api) | ⭐ 1 | Go | Tencent CodeBuddy / WorkBuddy 非官方反代：把自有订阅包装为 OpenAI 兼容的本地 API 服务（Go） |
 | [holtwood-projects/bookmarks-cleaner](https://github.com/holtwood-projects/bookmarks-cleaner) | ⭐ 1 | Python | 离线书签自动分类引擎:规则优先 · LLM 可选 | Offline bookmark auto-classification engine: rules-fi… |
-| [holtwood-projects/yolo-toys](https://github.com/holtwood-projects/yolo-toys) | ⭐ 1 | Python | 多模型视觉推理服务:YOLOv8 / DETR / OWL-ViT / Grounding DINO / BLIP 统一 FastAPI 接口 | Unifie… |
+| [holtwood-projects/chat-stash](https://github.com/holtwood-projects/chat-stash) | ⭐ 1 | HTML | Chrome 扩展一键保存 AI 聊天记录:Supabase 存储与全文检索 | Chrome extension to save AI chat histor… |
 | [holtwood-projects/meta-human](https://github.com/holtwood-projects/meta-human) | ⭐ 1 | TypeScript | 浏览器原生 3D 数字人引擎,集成语音与对话 | Browser-native 3D digital human engine with speech and… |
+| [holtwood-projects/wb2api](https://github.com/holtwood-projects/wb2api) | ⭐ 1 | Go | Tencent CodeBuddy / WorkBuddy 非官方反代：把自有订阅包装为 OpenAI 兼容的本地 API 服务（Go） |
+| [holtwood-projects/yolo-toys](https://github.com/holtwood-projects/yolo-toys) | ⭐ 1 | Python | 多模型视觉推理服务:YOLOv8 / DETR / OWL-ViT / Grounding DINO / BLIP 统一 FastAPI 接口 | Unifie… |
 
 ---
 [⬆ 返回顶部](#top)

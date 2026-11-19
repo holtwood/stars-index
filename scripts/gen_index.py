@@ -9,9 +9,20 @@
 
 用法:
   python3 scripts/gen_index.py
+  python3 scripts/gen_index.py --check   # 用已提交的 data/stars.json 离线重建并逐字节校验
+
+`--check` 不访问网络：它把 data/stars.json 当作输入快照，反推出生成器需要的
+repo/lists 字段，在临时目录重建全部产物，再与仓库内已提交文件比较。正常生成
+仍优先使用 fetch_stars.sh / fetch_lists.py 拉取的完整数据。
 """
+import argparse
+import difflib
+import filecmp
 import json
+import os
+import re
 import sys
+import tempfile
 from collections import Counter
 from datetime import datetime, timezone
 
@@ -19,6 +30,13 @@ from config import CATEGORIES, ALL_INDEX, LANG_INDEX, OWNER, REPO, STAR_LISTS_UR
 
 DATA_DIR = 'data'
 DOCS_DIR = 'docs'
+STARRED_FULL = f'{DATA_DIR}/starred_full.json'
+LIST_ITEMS = f'{DATA_DIR}/list_items.json'
+STARS_JSON = f'{DATA_DIR}/stars.json'
+LISTS_META = f'{DATA_DIR}/lists_meta.json'
+
+# --check 强制只读 data/stars.json，保证校验不受本机残留的抓取结果影响。
+OFFLINE_ONLY = False
 
 # ---------- 加载数据 ----------
 def load_jsonl(path):
@@ -32,7 +50,23 @@ def load_jsonl(path):
 
 
 def load_repos():
-    return load_jsonl(f'{DATA_DIR}/starred_full.json')
+    if not OFFLINE_ONLY and os.path.exists(STARRED_FULL):
+        return load_jsonl(STARRED_FULL)
+
+    # 离线回退：从已提交的 stars.json 还原生成器用到的字段。stars.json 是
+    # 生成产物，但包含 full_name/html_url/描述/stars/lists/starred_at 等，
+    # 足以重建 README 与 docs/；id、node_id 等生成器未使用的字段不还原。
+    if not os.path.exists(STARS_JSON):
+        sys.exit("缺少 data/starred_full.json 与 data/stars.json；"
+                 "请先运行 scripts/fetch_stars.sh 拉取数据")
+    with open(STARS_JSON, encoding='utf-8') as f:
+        payload = json.load(f)
+    repos = []
+    for item in payload['repos']:
+        repo = dict(item)
+        repo['stargazers_count'] = repo['stars']
+        repos.append(repo)
+    return repos
 
 
 def load_desc():
@@ -45,16 +79,33 @@ def load_desc():
 
 
 def load_lists():
-    list_items = json.load(open(f'{DATA_DIR}/list_items.json'))
-    lists_meta = {l['id']: l for l in json.load(open(f'{DATA_DIR}/lists_meta.json'))}
-    # repo -> [list名] 与 反向映射 list名 -> [repo名]
+    with open(LISTS_META, encoding='utf-8') as f:
+        lists_meta = json.load(f)
+
+    if not OFFLINE_ONLY and os.path.exists(LIST_ITEMS):
+        id2name = {l['id']: l['name'] for l in lists_meta}
+        list_items = json.load(open(LIST_ITEMS, encoding='utf-8'))
+        # repo -> [list名] 与 反向映射 list名 -> [repo名]
+        repo_lists = {}
+        list_repos = {}
+        for lid, items in list_items.items():
+            name = id2name[lid]
+            for item in items:
+                repo_lists.setdefault(item, []).append(name)
+                list_repos.setdefault(name, []).append(item)
+        return repo_lists, list_repos
+
+    # 离线回退：stars.json 每个 repo 自带 lists 字段；反向映射按字母序
+    # 重建，与 fetch_lists.py 写出的 sorted(list_items) 保持一致。
+    with open(STARS_JSON, encoding='utf-8') as f:
+        payload = json.load(f)
     repo_lists = {}
-    list_repos = {}
-    for lid, items in list_items.items():
-        name = lists_meta[lid]['name']
-        for item in items:
-            repo_lists.setdefault(item, []).append(name)
-            list_repos.setdefault(name, []).append(item)
+    list_repos = {l['name']: [] for l in lists_meta}
+    for repo in payload['repos']:
+        names = repo.get('lists') or []
+        repo_lists[repo['full_name']] = list(names)
+        for name in names:
+            list_repos.setdefault(name, []).append(repo['full_name'])
     return repo_lists, list_repos
 
 
@@ -159,7 +210,8 @@ def build_category_files(repos_by_name, list_repos, counts, desc_zh):
                     r = repos_by_name.get(name)
                     if r:
                         items.append(r)
-        items.sort(key=lambda x: -x['stargazers_count'])
+        items.sort(key=lambda x: (-x['stargazers_count'],
+                                x['full_name'].casefold(), x['full_name']))
         counts[cat['key']] = len(items)
 
         lines = [
@@ -180,7 +232,8 @@ def build_category_files(repos_by_name, list_repos, counts, desc_zh):
 
 # ---------- 生成全量索引 all.md ----------
 def build_all_index(repos, desc_zh):
-    items = sorted(repos, key=lambda x: -x['stargazers_count'])
+    items = sorted(repos, key=lambda x: (-x['stargazers_count'],
+                                          x['full_name'].casefold(), x['full_name']))
     lines = [
         "# 📦 全量索引",
         "",
@@ -205,7 +258,8 @@ def build_lang_index(repos):
         "| 语言 | 项目数 | 占比 |",
         "|------|--------|------|",
     ]
-    for lang, cnt in by_lang.most_common():
+    languages = sorted(by_lang.items(), key=lambda kv: (-kv[1], kv[0].casefold(), kv[0]))
+    for lang, cnt in languages:
         lines.append(f"| {esc(lang)} | {cnt} | {bar(cnt / len(repos))} |")
     lines += ["", "---", "[⬆ 返回顶部](#top)"]
     return '\n'.join(lines) + '\n'
@@ -215,6 +269,8 @@ def build_lang_index(repos):
 def build_recent(repos, desc_zh, n=15):
     """按 starred_at 倒序取最近收藏"""
     starred = [r for r in repos if r.get('starred_at')]
+    # 先按名字升序，再按 star 时间稳定倒序：同一时刻收藏的 repo 顺序可复现。
+    starred.sort(key=lambda x: (x['full_name'].casefold(), x['full_name']))
     starred.sort(key=lambda x: x['starred_at'], reverse=True)
     lines = ["## 🔥 最近收藏", ""]
     for r in starred[:n]:
@@ -225,9 +281,8 @@ def build_recent(repos, desc_zh, n=15):
 
 
 # ---------- 生成 README ----------
-def build_readme(total, counts, list_count, repos, desc_zh):
+def build_readme(total, counts, list_count, repos, desc_zh, today_str):
     readme = []
-    today_str = today()
     readme.append("# ⭐ StarsDB")
     readme.append("")
     readme.append(f"> 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists]({STAR_LISTS_URL}) 同步")
@@ -270,6 +325,8 @@ def build_readme(total, counts, list_count, repos, desc_zh):
     readme.append("python3 scripts/translate.py")
     readme.append("# 4. 重新生成 README 与 docs/")
     readme.append("python3 scripts/gen_index.py")
+    readme.append("# 干净检出/无网络时：用已提交的 data/stars.json 离线重建并逐字节校验")
+    readme.append("python3 scripts/gen_index.py --check")
     readme.append("```")
     readme.append("")
     readme.append("> 💡 翻译结果缓存在 `data/desc_zh.json` 随仓库提交,新 star 项目翻译前以英文原文显示。")
@@ -278,7 +335,7 @@ def build_readme(total, counts, list_count, repos, desc_zh):
 
 
 # ---------- 生成 data/stars.json(供前端/二次开发) ----------
-def build_stars_json(repos, repo_lists, counts, desc_zh):
+def build_stars_json(repos, repo_lists, counts, desc_zh, generated_at):
     categories = {}
     for cat in CATEGORIES:
         categories[cat['key']] = {
@@ -288,7 +345,7 @@ def build_stars_json(repos, repo_lists, counts, desc_zh):
             'lists': cat['lists'],
         }
     payload = {
-        'generated_at': datetime.now(timezone.utc).isoformat(),
+        'generated_at': generated_at,
         'total': len(repos),
         'categories': categories,
         'repos': [
@@ -323,7 +380,7 @@ def build_sidebar():
 
 
 # ---------- 主流程 ----------
-def main():
+def write_outputs(out_dir, today_str, generated_at):
     repos = load_repos()
     repo_lists, list_repos = load_lists()
     desc_zh = load_desc()
@@ -352,28 +409,116 @@ def main():
     verify_consistency(repos, list_repos, counts)
 
     # 写分类页(分类 key 需补 .md,全量/语言索引 key 已带扩展名)
+    outputs = []
+    os.makedirs(os.path.join(out_dir, DOCS_DIR), exist_ok=True)
+    os.makedirs(os.path.join(out_dir, DATA_DIR), exist_ok=True)
     for key, content in files.items():
         fname = key if key.endswith('.md') else f'{key}.md'
-        with open(f'{DOCS_DIR}/{fname}', 'w') as f:
+        rel = f'{DOCS_DIR}/{fname}'
+        with open(os.path.join(out_dir, rel), 'w') as f:
             f.write(content)
+        outputs.append(rel)
 
     # 写 README
-    with open('README.md', 'w') as f:
-        f.write(build_readme(total, counts, list_count, repos, desc_zh))
+    with open(os.path.join(out_dir, 'README.md'), 'w') as f:
+        f.write(build_readme(total, counts, list_count, repos, desc_zh, today_str))
+    outputs.append('README.md')
 
     # 写前端数据
-    with open(f'{DATA_DIR}/stars.json', 'w') as f:
-        f.write(build_stars_json(repos, repo_lists, counts, desc_zh))
+    rel = f'{DATA_DIR}/stars.json'
+    with open(os.path.join(out_dir, rel), 'w') as f:
+        f.write(build_stars_json(repos, repo_lists, counts, desc_zh, generated_at))
+    outputs.append(rel)
 
     # 写 docsify 侧边栏
-    with open('_sidebar.md', 'w') as f:
+    with open(os.path.join(out_dir, '_sidebar.md'), 'w') as f:
         f.write(build_sidebar())
+    outputs.append('_sidebar.md')
 
-    print(f"✅ 生成完成: README.md + docs/ 下 {len(files)} 个文件 + data/stars.json + _sidebar.md")
+    return outputs, total, counts
+
+
+def _print_diff(committed, generated, rel, max_lines=12):
+    with open(committed, encoding='utf-8') as f:
+        expected = f.readlines()
+    with open(generated, encoding='utf-8') as f:
+        actual = f.readlines()
+    diff = list(difflib.unified_diff(
+        expected, actual, fromfile=rel, tofile=f'generated/{rel}', n=2))
+    for line in diff[:max_lines]:
+        print(f'     {line.rstrip()}')
+    if len(diff) > max_lines:
+        print('     ...')
+
+
+def committed_readme_date():
+    """已提交 README 的“最后同步”日期；生成日期不属于数据快照。"""
+    try:
+        with open('README.md', encoding='utf-8') as f:
+            text = f.read()
+    except FileNotFoundError:
+        return None
+    match = re.search(r'最后同步-(\d{4})--(\d{2})--(\d{2})', text)
+    if not match:
+        return None
+    return f'{match.group(1)}-{match.group(2)}-{match.group(3)}'
+
+
+def check_outputs():
+    """Offline rebuild from committed data/stars.json and byte-compare outputs."""
+    global OFFLINE_ONLY
+    if not os.path.exists(STARS_JSON):
+        print('❌ --check 需要已提交的 data/stars.json 作为离线输入')
+        return 1
+
+    with open(STARS_JSON, encoding='utf-8') as f:
+        snapshot = json.load(f)
+    generated_at = snapshot['generated_at']
+    # README 的“最后同步”是本地生成日期，可能因时区/跨午夜与 generated_at
+    # 的 UTC 日期相差一天；校验时按已提交值注入，避免把日期元数据当成数据差异。
+    today_str = committed_readme_date() or generated_at[:10]
+    OFFLINE_ONLY = True
+
+    with tempfile.TemporaryDirectory() as tmp:
+        outputs, _, _ = write_outputs(tmp, today_str, generated_at)
+        mismatches = []
+        for rel in outputs:
+            committed = rel
+            generated = os.path.join(tmp, rel)
+            if not os.path.exists(committed):
+                mismatches.append((rel, '仓库内缺少该文件'))
+            elif not filecmp.cmp(generated, committed, shallow=False):
+                mismatches.append((rel, '内容不同'))
+
+        if mismatches:
+            print('❌ 离线重建结果与已提交产物不一致:')
+            for rel, reason in mismatches:
+                print(f'   - {rel}: {reason}')
+                if os.path.exists(rel):
+                    _print_diff(rel, os.path.join(tmp, rel), rel)
+            return 1
+
+    print(f'✅ 离线重建校验通过: {len(outputs)} 个文件与已提交产物逐字节一致')
+    return 0
+
+
+def main(argv=None):
+    parser = argparse.ArgumentParser(description='生成 StarsDB 索引')
+    parser.add_argument('--check', action='store_true',
+                        help='用已提交的 data/stars.json 离线重建并与仓库产物逐字节比较')
+    args = parser.parse_args(argv)
+
+    if args.check:
+        return check_outputs()
+
+    outputs, total, counts = write_outputs(
+        '.', today(), datetime.now(timezone.utc).isoformat())
+    print(f"✅ 生成完成: README.md + docs/ 下 {len(outputs) - 3} 个文件 + data/stars.json + _sidebar.md")
     print(f"   总项目: {total}")
     for cat in CATEGORIES:
         print(f"   {cat['key']}: {counts[cat['key']]}")
+    return 0
 
 
 if __name__ == '__main__':
-    main()
+    sys.exit(main())
