@@ -6,10 +6,10 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [react/react](https://github.com/react/react) | ⭐ 252.7k | JavaScript | 用于构建网页和原生用户界面的库。 |
+| [react/react](https://github.com/react/react) | ⭐ 252.8k | JavaScript | 用于构建网页和原生用户界面的库。 |
 | [vuejs/vue](https://github.com/vuejs/vue) | ⭐ 212.5k | TypeScript | 这是 Vue 2 的仓库。Vue 3 请访问 https://github.com/vuejs/core |
 | [vitejs/vite](https://github.com/vitejs/vite) | ⭐ 84.0k | TypeScript | 下一代前端工具链，极速体验！ |
-| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | ⭐ 80.8k | TypeScript | 开源API开发生态系统 • https://hoppscotch.io • 支持离线、本地部署与云端 • 覆盖Web、桌面端与CLI • Postman、Ins… |
+| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | ⭐ 80.9k | TypeScript | 开源API开发生态系统 • https://hoppscotch.io • 支持离线、本地部署与云端 • 覆盖Web、桌面端与CLI • Postman、Ins… |
 | [ElemeFE/element](https://github.com/ElemeFE/element) | ⭐ 54.0k | Vue | 适用于Web的Vue.js 2.0 UI组件库 |
 | [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | ⭐ 47.1k | TypeScript | 🧡 一切皆可RSS |
 | [yarnpkg/yarn](https://github.com/yarnpkg/yarn) | ⭐ 41.5k | JavaScript | 1.x 分支已停止更新，新功能和错误修复现在都在 https://github.com/yarnpkg/berry 开发 |
@@ -36,7 +36,7 @@
 | [meetqy/aspoem](https://github.com/meetqy/aspoem) | ⭐ 2.9k | TypeScript | 通过AsPoem.com学习中国诗词 |
 | [anghunk/linuxdo-scripts](https://github.com/anghunk/linuxdo-scripts) | ⭐ 2.8k | Vue | LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https:/… |
 | [Pintree-io/pintree](https://github.com/Pintree-io/pintree) | ⭐ 2.6k | TypeScript | Pintree：轻松将你的浏览器书签转换为目录网站，数分钟即可开始变现。 |
-| [wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher) | ⭐ 2.2k | TypeScript | Google Antigravity AI模型配额监控插件 (Antigravity AI Model Quota Watching) |
+| [wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher) | ⭐ 2.3k | TypeScript | Google Antigravity AI模型配额监控插件 (Antigravity AI Model Quota Watching) |
 | [hellodigua/code996](https://github.com/hellodigua/code996) | ⭐ 2.2k | TypeScript | 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。  Analyzes the commit time distribution of… |
 | [Syngnat/GoNavi](https://github.com/Syngnat/GoNavi) | ⭐ 2.1k | TypeScript | High-performance multi-data-source database client — ~30MB, AI & MCP ready, zero… |
 | [renzhezhilu/webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) | ⭐ 2.0k | JavaScript | Use the browser's online image format converter, no need to upload files, you ca… |
@@ -53,14 +53,14 @@
 | [dishait/tov-template](https://github.com/dishait/tov-template) | ⭐ 966 | TypeScript | vite + vue3 + ts 开箱即用现代开发模板 | vite + vue3 + ts out-of-the-box modern development… |
 | [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) | ⭐ 919 | Svelte | 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI… |
 | [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) | ⭐ 868 | JavaScript | ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O |
-| [yenche123/liubai](https://github.com/yenche123/liubai) | ⭐ 868 | TypeScript | 赋能你自己！ |
-| [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) | ⭐ 649 | TypeScript |  |
+| [yenche123/liubai](https://github.com/yenche123/liubai) | ⭐ 866 | TypeScript | 赋能你自己！ |
+| [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) | ⭐ 650 | TypeScript |  |
 | [o8oo8o/WebCurl](https://github.com/o8oo8o/WebCurl) | ⭐ 614 | HTML | 极简网页版API调试神器 |
-| [lunavaledev/mobaxterm-crack](https://github.com/lunavaledev/mobaxterm-crack) | ⭐ 608 | TypeScript | 破解MobaXterm的高级版，生成密钥，支持几乎所有版本。 |
+| [lunavaledev/mobaxterm-crack](https://github.com/lunavaledev/mobaxterm-crack) | ⭐ 609 | TypeScript | 破解MobaXterm的高级版，生成密钥，支持几乎所有版本。 |
 | [Sergei-Korneev/obsidian-local-images-plus](https://github.com/Sergei-Korneev/obsidian-local-images-plus) | ⭐ 577 | TypeScript | 本仓库是 obsidian-local-images 插件的重制项目，该插件的核心功能是将 Markdown 笔记中的图片下载到本地存储。 |
 | [lunar-landing/layui-vue](https://github.com/lunar-landing/layui-vue) | ⭐ 554 | Vue | 基于 Layui 和 Vue 的企业级 UI 组件库 |
-| [ButaiKirin/MicrosoftHostsPicker](https://github.com/ButaiKirin/MicrosoftHostsPicker) | ⭐ 508 | CSS | 用于筛选Microsoft服务最快IP的轻量Python脚本 |
-| [oncework/Codeexpander](https://github.com/oncework/Codeexpander) | ⭐ 476 | JavaScript | 跨平台文本扩展工具，可通过缩写快速插入代码片段、代码模板和动态内容，内置截图标注与剪贴板管理器，为开发者、创作者及日常工作流提升生产力。 |
+| [ButaiKirin/MicrosoftHostsPicker](https://github.com/ButaiKirin/MicrosoftHostsPicker) | ⭐ 506 | CSS | 用于筛选Microsoft服务最快IP的轻量Python脚本 |
+| [oncework/Codeexpander](https://github.com/oncework/Codeexpander) | ⭐ 475 | JavaScript | 跨平台文本扩展工具，可通过缩写快速插入代码片段、代码模板和动态内容，内置截图标注与剪贴板管理器，为开发者、创作者及日常工作流提升生产力。 |
 | [hbctraining/In-depth-NGS-Data-Analysis-Course🟡](https://github.com/hbctraining/In-depth-NGS-Data-Analysis-Course) | ⭐ 445 | HTML |  |
 | [MistRipple/ace-tool](https://github.com/MistRipple/ace-tool) | ⭐ 430 | TypeScript |  |
 | [wzdnzd/resume](https://github.com/wzdnzd/resume) | ⭐ 427 | TypeScript | 功能丰富、支持灵活自定义的简历生成工具 |

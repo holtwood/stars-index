@@ -18,14 +18,14 @@
 | [crazyhottommy/getting-started-with-genomics-tools-and-resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources) | ⭐ 1.4k | Shell | 用于基因组学与数据科学的Unix、R和Python工具集 |
 | [shenwei356/csvtk](https://github.com/shenwei356/csvtk) | ⭐ 1.2k | Go | 基于Golang开发的跨平台高效实用CSV/TSV工具包 |
 | [crazyhottommy/RNA-seq-analysis](https://github.com/crazyhottommy/RNA-seq-analysis) | ⭐ 1.1k | Python | Ming Tang的RNAseq分析笔记 |
-| [mikolmogorov/Flye](https://github.com/mikolmogorov/Flye) | ⭐ 957 | C | 基于重复图谱的单分子测序读段从头组装工具 |
+| [mikolmogorov/Flye](https://github.com/mikolmogorov/Flye) | ⭐ 959 | C | 基于重复图谱的单分子测序读段从头组装工具 |
 | [bwa-mem2/bwa-mem2](https://github.com/bwa-mem2/bwa-mem2) | ⭐ 870 | C++ | bwa-mem 的下一代版本 |
-| [openwdl/wdl](https://github.com/openwdl/wdl) | ⭐ 856 |  | 工作流描述语言（WDL）规范 |
+| [openwdl/wdl](https://github.com/openwdl/wdl) | ⭐ 855 |  | 工作流描述语言（WDL）规范 |
 | [crazyhottommy/scRNAseq-analysis-notes](https://github.com/crazyhottommy/scRNAseq-analysis-notes) | ⭐ 845 |  | Ming Tang 的单细胞 RNA 测序分析笔记 |
-| [mdozmorov/scRNA-seq_notes](https://github.com/mdozmorov/scRNA-seq_notes) | ⭐ 830 | R | 单细胞RNA测序分析工具清单 |
+| [mdozmorov/scRNA-seq_notes](https://github.com/mdozmorov/scRNA-seq_notes) | ⭐ 831 | R | 单细胞RNA测序分析工具清单 |
 | [bebop/poly](https://github.com/bebop/poly) | ⭐ 740 | Go | 用于工程改造生物体的Go包 |
 | [OysterQAQ/ACG2vec](https://github.com/OysterQAQ/ACG2vec) | ⭐ 579 |  | ACG2vec (Anime Comics Games to vector) are committed to creating a playground th… |
-| [wdecoster/NanoPlot](https://github.com/wdecoster/NanoPlot) | ⭐ 566 | HTML | 用于长读长测序数据的绘图脚本 |
+| [wdecoster/NanoPlot](https://github.com/wdecoster/NanoPlot) | ⭐ 565 | HTML | 用于长读长测序数据的绘图脚本 |
 | [10XGenomics/cellranger](https://github.com/10XGenomics/cellranger) | ⭐ 480 | Rust | 10x Genomics 单细胞分析 |
 | [seqan/seqan3](https://github.com/seqan/seqan3) | ⭐ 465 | C++ | 用于序列分析的现代C++库，包含该库的第3版本及API文档。 |
 | [openbiox/weekly](https://github.com/openbiox/weekly) | ⭐ 461 | HTML | 生信爱好者周刊（每周日发布） |
@@ -41,7 +41,7 @@
 | [hbctraining/Intro-to-bulk-RNAseq](https://github.com/hbctraining/Intro-to-bulk-RNAseq) | ⭐ 157 | HTML | 批量RNA-seq入门 |
 | [grimmlab/MicrobiomeBestPracticeReview](https://github.com/grimmlab/MicrobiomeBestPracticeReview) | ⭐ 129 | Shell | 基于扩增子和宏基因组测序的微生物组分析当前挑战与最佳实践方案 |
 | [biocaml/biocaml](https://github.com/biocaml/biocaml) | ⭐ 123 | OCaml | OCaml 生物信息学库 |
-| [BGI-flexlab/SOAPnuke](https://github.com/BGI-flexlab/SOAPnuke) | ⭐ 117 | C++ | 用于对FASTQ或BAM/CRAM文件进行整合质控与预处理的工具 |
+| [BGI-flexlab/SOAPnuke](https://github.com/BGI-flexlab/SOAPnuke) | ⭐ 118 | C++ | 用于对FASTQ或BAM/CRAM文件进行整合质控与预处理的工具 |
 | [broadinstitute/genomics-in-the-cloud](https://github.com/broadinstitute/genomics-in-the-cloud) | ⭐ 103 | Jupyter Notebook | O'Reilly 图书的源代码及相关资料 |
 | [YeoLab/single-cell-bioinformatics🟡](https://github.com/YeoLab/single-cell-bioinformatics) | ⭐ 100 | Jupyter Notebook | 学习单细胞生物信息学方法的Notebook格式课程资料 |
 | [vertgenlab/gonomics](https://github.com/vertgenlab/gonomics) | ⭐ 95 | Go | 用 Go（golang）编写的一组基因组学软件工具集合 |

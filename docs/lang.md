@@ -6,7 +6,7 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [anthropics/skills](https://github.com/anthropics/skills) | ⭐ 197.4k | Python | Agent 技能公开仓库 |
+| [anthropics/skills](https://github.com/anthropics/skills) | ⭐ 197.7k | Python | Agent 技能公开仓库 |
 | [golang/go](https://github.com/golang/go) | ⭐ 140.1k | Go | Go 编程语言 |
 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | ⭐ 104.9k | Python | FastAPI 框架，高性能，易学习，编码快，可用于生产环境 |
 | [nvbn/thefuck](https://github.com/nvbn/thefuck) | ⭐ 98.0k | Python | 一款可以帮你修正上一条控制台命令的好用工具 |
@@ -14,7 +14,7 @@
 | [junegunn/fzf](https://github.com/junegunn/fzf) | ⭐ 84.3k | Go | :cherry_blossom: 命令行模糊查找器 |
 | [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | ⭐ 81.3k | Python | 上传截图，即可将其转换为整洁的代码（HTML/Tailwind/React/Vue） |
 | [ocornut/imgui](https://github.com/ocornut/imgui) | ⭐ 77.2k | C++ | Dear ImGui：适用于C++的低依赖、无冗余图形用户界面 |
-| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | ⭐ 74.8k | TypeScript | 不止有 Notion 和 Miro。AFFiNE（发音[ə‘fain]）是将规划、整理与创作整合为一体的下一代知识库。隐私优先、开源可定制，开箱即用。 |
+| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | ⭐ 75.2k | TypeScript | 不止有 Notion 和 Miro。AFFiNE（发音[ə‘fain]）是将规划、整理与创作整合为一体的下一代知识库。隐私优先、开源可定制，开箱即用。 |
 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | ⭐ 72.2k | C++ | Protocol Buffers — Google 的数据交换格式 |
 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | ⭐ 67.2k | Rust | 真正独立的网页浏览器 |
 | [usememos/memos](https://github.com/usememos/memos) | ⭐ 64.6k | Go | 开源自托管笔记工具，专为快速记笔记打造。原生支持Markdown，轻量省心，完全归你所有。 |
@@ -164,7 +164,7 @@
 | [eatmoreduck/boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper) | ⭐ 1.8k | Python | Boss直聘爬虫 / BOSS直聘职位数据抓取工具，基于 Chrome CDP 协议复用真实登录态，绕过字体反爬，输出明文薪资 JSON/CSV + 薪资技能分… |
 | [noopstudios/interactive-feedback-mcp](https://github.com/noopstudios/interactive-feedback-mcp) | ⭐ 1.7k | Python | 交互式用户反馈 MCP |
 | [trustmaster/goflow](https://github.com/trustmaster/goflow) | ⭐ 1.7k | Go | 面向 Go（golang）的基于流的数据流编程库 |
-| [Google-Health/medgemma](https://github.com/Google-Health/medgemma) | ⭐ 1.6k | Jupyter Notebook |  |
+| [Google-Health/medgemma](https://github.com/Google-Health/medgemma) | ⭐ 1.7k | Jupyter Notebook |  |
 | [arxiv-vanity/arxiv-vanity](https://github.com/arxiv-vanity/arxiv-vanity) | ⭐ 1.6k | Python | 将 arXiv 的论文渲染为响应式网页，不用再眯着眼睛看 PDF 了。 |
 | [aoaostar/toolbox](https://github.com/aoaostar/toolbox) | ⭐ 1.5k | PHP | 🚀傲星工具箱，一个在线工具箱 |
 | [fawney19/Aether](https://github.com/fawney19/Aether) | ⭐ 1.5k | Rust |  |
@@ -179,45 +179,45 @@
 | [makejavas/EasyCode](https://github.com/makejavas/EasyCode) | ⭐ 1.1k | Java | 基于IntelliJ IDEA开发的代码生成插件，支持自定义任意模板（Java，html，js，xml）。只要是与数据库相关的代码都可以通过自定义模板来生成。支… |
 | [mzjdy/MobaXterm-Keygen](https://github.com/mzjdy/MobaXterm-Keygen) | ⭐ 1.1k | Python | MobaXterm 注册机 原作者：DoubleLabyrinth |
 | [PacktPublishing/40-Algorithms-Every-Programmer-Should-Know](https://github.com/PacktPublishing/40-Algorithms-Every-Programmer-Should-Know) | ⭐ 1.0k | Python | Packt 出版：每位程序员都应该掌握的 40 种算法 |
-| [0voice/developkit_set](https://github.com/0voice/developkit_set) | ⭐ 1.0k |  | 2021年最新总结，值得推荐的c/c++开源框架与库。持续更新中。 |
-| [chronolaw/cpp_study](https://github.com/chronolaw/cpp_study) | ⭐ 946 | C++ | 跟我一起学现代C++ |
+| [0voice/developkit_set](https://github.com/0voice/developkit_set) | ⭐ 999 |  | 2021年最新总结，值得推荐的c/c++开源框架与库。持续更新中。 |
+| [chronolaw/cpp_study](https://github.com/chronolaw/cpp_study) | ⭐ 945 | C++ | 跟我一起学现代C++ |
 | [CaoZ/JD-Coin](https://github.com/CaoZ/JD-Coin) | ⭐ 924 | Python | 自动登录京东，打卡领钢镚，签到领京豆 |
-| [rmyorston/busybox-w32](https://github.com/rmyorston/busybox-w32) | ⭐ 903 | C | BusyBox 的 WIN32 原生移植版。 |
-| [findmover/wxread](https://github.com/findmover/wxread) | ⭐ 838 | Python | 微信读书刷时长助你成为霸榜“大佬” |
+| [rmyorston/busybox-w32](https://github.com/rmyorston/busybox-w32) | ⭐ 902 | C | BusyBox 的 WIN32 原生移植版。 |
+| [findmover/wxread](https://github.com/findmover/wxread) | ⭐ 837 | Python | 微信读书刷时长助你成为霸榜“大佬” |
 | [aliyun/ossfs](https://github.com/aliyun/ossfs) | ⭐ 812 | C++ | 用于将OSS存储桶挂载为本地文件系统的高性能文件客户端。 |
-| [intel/optimization-manual🟡](https://github.com/intel/optimization-manual) | ⭐ 807 | Assembly | 包含《英特尔® 64 位与 IA-32 架构优化参考手册》中介绍的源代码示例 |
+| [intel/optimization-manual🟡](https://github.com/intel/optimization-manual) | ⭐ 806 | Assembly | 包含《英特尔® 64 位与 IA-32 架构优化参考手册》中介绍的源代码示例 |
 | [qy527145/acemcp](https://github.com/qy527145/acemcp) | ⭐ 803 | Python | 一个将ACE(Augment Context Engine) 做成MCP的项目 |
-| [bilibili/vim-vide](https://github.com/bilibili/vim-vide) | ⭐ 787 | Vim Script | Lightest vimrc, while strong enough. 最轻的vim配置，却足够强！ |
+| [bilibili/vim-vide](https://github.com/bilibili/vim-vide) | ⭐ 786 | Vim Script | Lightest vimrc, while strong enough. 最轻的vim配置，却足够强！ |
 | [WeichenFan/CFG-Zero-star](https://github.com/WeichenFan/CFG-Zero-star) | ⭐ 718 | Python | CFG-Zero* 的官方仓库 |
 | [PytLab/Cpp-Primer-Plus](https://github.com/PytLab/Cpp-Primer-Plus) | ⭐ 685 | C++ | C++ Primer Plus 第六版习题解答 |
 | [astrofrog/psrecord](https://github.com/astrofrog/psrecord) | ⭐ 683 | Python | 记录单个进程的CPU与内存占用活动 |
-| [Cobertos/md2notion🟡](https://github.com/Cobertos/md2notion) | ⭐ 680 | Python | 更好的 Notion.so Markdown 导入工具 |
+| [Cobertos/md2notion🟡](https://github.com/Cobertos/md2notion) | ⭐ 679 | Python | 更好的 Notion.so Markdown 导入工具 |
 | [Mercurygram/Mercurygram🔀](https://github.com/Mercurygram/Mercurygram) | ⭐ 654 | Java | Android 版官方 Telegram 客户端的非官方、对自由开源软件友好的分支 |
 | [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) | ⭐ 638 | Rust | 合并多个网络连接，提升你的下载速度 |
 | [BartVandewoestyne/Effective-Modern-Cpp](https://github.com/BartVandewoestyne/Effective-Modern-Cpp) | ⭐ 621 | C++ | Scott Meyers所著《Effective Modern C++》的示例代码 |
 | [neolee/pilot](https://github.com/neolee/pilot) | ⭐ 613 | Jupyter Notebook | 进入编程世界的第一课 |
-| [MoonshotAI/K2-Vendor-Verifier](https://github.com/MoonshotAI/K2-Vendor-Verifier) | ⭐ 601 | Python | 验证所有提供 Kimi K2 API 厂商的精度 |
-| [r-smith/vmPing](https://github.com/r-smith/vmPing) | ⭐ 601 | C# | 可视化多Ping，用于监控多台主机的色标编码Ping工具 |
+| [MoonshotAI/K2-Vendor-Verifier](https://github.com/MoonshotAI/K2-Vendor-Verifier) | ⭐ 602 | Python | 验证所有提供 Kimi K2 API 厂商的精度 |
+| [r-smith/vmPing](https://github.com/r-smith/vmPing) | ⭐ 600 | C# | 可视化多Ping，用于监控多台主机的色标编码Ping工具 |
 | [ZMGID/kivio](https://github.com/ZMGID/kivio) | ⭐ 584 | Rust |  |
 | [Waleon/DesignPatterns](https://github.com/Waleon/DesignPatterns) | ⭐ 574 | C++ | 趣味设计模式，小朋友也能学得会！ |
 | [ahmetsait/toolgit](https://github.com/ahmetsait/toolgit) | ⭐ 563 | Python | Git 生产力工具集 |
 | [xujiangjiang/Easy-Cat-Timer](https://github.com/xujiangjiang/Easy-Cat-Timer) | ⭐ 558 | C# | This is a very simple cat timer, made using WPF（这是一个非常简单的猫咪计时器，使用WPF制作） |
-| [imelnyk/ArxivPapers](https://github.com/imelnyk/ArxivPapers) | ⭐ 545 | Python | Arxiv 论文的配套代码 |
 | [hitnology/snoopy](https://github.com/hitnology/snoopy) | ⭐ 544 | Objective-C | macOS 版本史努比屏幕保护 |
+| [imelnyk/ArxivPapers](https://github.com/imelnyk/ArxivPapers) | ⭐ 544 | Python | Arxiv 论文的配套代码 |
 | [azrilaiman2003/augment-vip](https://github.com/azrilaiman2003/augment-vip) | ⭐ 528 | Python | 移除 AugmentCode 免费试用账户限制 |
 | [chengazhen/gitlens-pro](https://github.com/chengazhen/gitlens-pro) | ⭐ 521 | Go | 一个用于激活 GitLens Pro 的工具。 |
 | [petermattis/goid](https://github.com/petermattis/goid) | ⭐ 512 | Go |  |
-| [luncliff/coroutine🟡](https://github.com/luncliff/coroutine) | ⭐ 494 | C++ | 实战 C++20 协程（辅助工具+测试代码示例） |
-| [nakabonne/gosivy](https://github.com/nakabonne/gosivy) | ⭐ 479 | Go | 用于Go进程指标的实时可视化工具 |
+| [luncliff/coroutine🟡](https://github.com/luncliff/coroutine) | ⭐ 493 | C++ | 实战 C++20 协程（辅助工具+测试代码示例） |
+| [nakabonne/gosivy](https://github.com/nakabonne/gosivy) | ⭐ 478 | Go | 用于Go进程指标的实时可视化工具 |
 | [ChengShiest/LAST-ViT](https://github.com/ChengShiest/LAST-ViT) | ⭐ 474 | Python | [CVPR 2026] 论文《Vision Transformer Needs More Than Registers》的官方PyTorch实现 |
 | [vss2sn/path_planning](https://github.com/vss2sn/path_planning) | ⭐ 449 | C++ | 本仓库包含基于网格搜索的C++路径规划算法。 |
 | [itandelin/qoder-free](https://github.com/itandelin/qoder-free) | ⭐ 415 | Python | 一个用于重置 Qoder 应用程序用户身份信息的现代化图形界面工具。 |
-| [cloudanum/50Algorithms](https://github.com/cloudanum/50Algorithms) | ⭐ 405 | Jupyter Notebook | Code for 50 Algorithms Every Programmer Should Know, Second Edition (Packt) by I… |
+| [cloudanum/50Algorithms](https://github.com/cloudanum/50Algorithms) | ⭐ 404 | Jupyter Notebook | Code for 50 Algorithms Every Programmer Should Know, Second Edition (Packt) by I… |
 | [jenniferlu717/KrakenTools](https://github.com/jenniferlu717/KrakenTools) | ⭐ 386 | Python | KrakenTools 提供用于分析 Kraken/Kraken2/Bracken/KrakenUniq 输出文件的独立脚本 |
 | [jwcpp/jwEngine](https://github.com/jwcpp/jwEngine) | ⭐ 365 | C | 跨平台 C++<->lua 服务端快速开发方案 |
-| [tghosgor/threadpool11](https://github.com/tghosgor/threadpool11) | ⭐ 329 | C++ | 一款快速、无锁、跨平台的 C++11 线程池库，主打轻量简洁。 |
-| [Baseult/NetLimiterCrack](https://github.com/Baseult/NetLimiterCrack) | ⭐ 321 | C# | 一个用于免费获取 NetLimiter Premium 的简单补丁程序 |
-| [GcsSloop/TinyPng](https://github.com/GcsSloop/TinyPng) | ⭐ 304 | Python | 图片批量压缩脚本(Python) |
+| [tghosgor/threadpool11](https://github.com/tghosgor/threadpool11) | ⭐ 328 | C++ | 一款快速、无锁、跨平台的 C++11 线程池库，主打轻量简洁。 |
+| [Baseult/NetLimiterCrack](https://github.com/Baseult/NetLimiterCrack) | ⭐ 320 | C# | 一个用于免费获取 NetLimiter Premium 的简单补丁程序 |
+| [GcsSloop/TinyPng](https://github.com/GcsSloop/TinyPng) | ⭐ 303 | Python | 图片批量压缩脚本(Python) |
 | [PGshen/mini-clipboard](https://github.com/PGshen/mini-clipboard) | ⭐ 255 | Swift | 开源项目，专注于简洁美观、流畅顺滑的使用体验。 |
 | [falahati/NetworkAdapterSelector](https://github.com/falahati/NetworkAdapterSelector) | ⭐ 253 | C# | 可强制将程序绑定到指定网络适配器的简易解决方案 |
 | [Tianji95/effective-cpp-note](https://github.com/Tianji95/effective-cpp-note) | ⭐ 244 |  | 《Effective C++》、《More Effective C++》与《Effective Modern C++》笔记 |
@@ -233,7 +233,7 @@
 | [billziss-gh/imap](https://github.com/billziss-gh/imap) | ⭐ 132 | C | 整数映射数据结构 |
 | [Ssabby1/repo-to-resume-tailor](https://github.com/Ssabby1/repo-to-resume-tailor) | ⭐ 129 | Python | 可根据目标岗位或职位描述，将代码仓库转换为适配简历的项目经历描述 |
 | [bioconda/bioconda-utils](https://github.com/bioconda/bioconda-utils) | ⭐ 108 | Python | 用于构建和管理 bioconda 配方的工具集 |
-| [huhu/cpp-search-extension](https://github.com/huhu/cpp-search-extension) | ⭐ 102 | JavaScript | 适用于C/C++的终极搜索扩展 |
+| [huhu/cpp-search-extension](https://github.com/huhu/cpp-search-extension) | ⭐ 103 | JavaScript | 适用于C/C++的终极搜索扩展 |
 | [linchupeng/YourWeather](https://github.com/linchupeng/YourWeather) | ⭐ 102 | Java | :sun_with_face: 你的天气：OkHttp +Material Design+《第一行代码》 |
 | [thustorage/RoundPipe](https://github.com/thustorage/RoundPipe) | ⭐ 94 | Python | 面向消费级GPU的大型深度神经网络训练框架 |
 | [pawaovo/interactive-feedback-mcp🔀](https://github.com/pawaovo/interactive-feedback-mcp) | ⭐ 93 | Python | 交互式用户反馈 MCP |
