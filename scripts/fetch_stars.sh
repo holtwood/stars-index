@@ -7,7 +7,7 @@ set -euo pipefail
 OUT="${1:-data/starred_full.json}"
 
 gh api --paginate -H 'Accept: application/vnd.github.star+json' 'user/starred?per_page=100' --jq \
-  '.[] | {starred_at: .starred_at} + (.repo | {id, node_id, full_name, description, language, topics, stargazers_count, fork, archived, html_url})' \
+  '.[] | {starred_at: .starred_at} + (.repo | {id, node_id, full_name, description, language, topics, stargazers_count, fork, archived, private, html_url})' \
   > "$OUT"
 
 echo "✅ 已保存 $(wc -l < "$OUT") 个仓库到 $OUT"

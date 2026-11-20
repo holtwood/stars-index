@@ -51,7 +51,7 @@ def load_jsonl(path):
 
 def load_repos():
     if not OFFLINE_ONLY and os.path.exists(STARRED_FULL):
-        return load_jsonl(STARRED_FULL)
+        return drop_private(load_jsonl(STARRED_FULL))
 
     # 离线回退：从已提交的 stars.json 还原生成器用到的字段。stars.json 是
     # 生成产物，但包含 full_name/html_url/描述/stars/lists/starred_at 等，
@@ -66,7 +66,21 @@ def load_repos():
         repo = dict(item)
         repo['stargazers_count'] = repo['stars']
         repos.append(repo)
-    return repos
+    return drop_private(repos)
+
+
+def drop_private(repos):
+    """剔除自己转私有的星标仓库。
+
+    星标接口会返回本人可见的私有仓库；本仓库是公开的 Pages 站点，
+    私有仓库的名称与描述不得进入任何产物（与 repo-registry 同一约束）。
+    `private` 字段缺失时按公开处理，避免旧快照被误删。
+    """
+    kept = [r for r in repos if not r.get('private')]
+    dropped = len(repos) - len(kept)
+    if dropped:
+        print(f"ℹ️  已剔除 {dropped} 个私有仓库（名称与描述不进入公开产物）")
+    return kept
 
 
 def load_desc():

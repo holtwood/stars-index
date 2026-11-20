@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-19T09:14:34.488482+00:00",
- "total": 1387,
+ "generated_at": "2026-11-20T02:45:43.796880+00:00",
+ "total": 1386,
  "categories": {
   "ai": {
    "title": "🤖 AI 与 LLM",
@@ -157,7 +157,7 @@
   "misc": {
    "title": "📦 其他与杂项",
    "desc": "未归类、杂项与有效工具",
-   "count": 96,
+   "count": 95,
    "lists": [
     "其他与杂项",
     "有效工具"
@@ -1447,28 +1447,6 @@
    "archived": false,
    "fork": false,
    "starred_at": "2026-09-01T06:43:05Z",
-   "lists": [
-    "其他与杂项"
-   ]
-  },
-  {
-   "full_name": "holtwood/agent-skills-kit",
-   "html_url": "https://github.com/holtwood/agent-skills-kit",
-   "stars": 1,
-   "language": "Python",
-   "topics": [
-    "agent-skills",
-    "ai-agents",
-    "claude-code",
-    "diagrams",
-    "github-pages",
-    "screenshots"
-   ],
-   "description": "自用 Agent Skills 集合：截图捕获、截图装框、架构图生成、GitHub Pages 配置等，兼容 Claude Code / opencode",
-   "description_zh": null,
-   "archived": false,
-   "fork": false,
-   "starred_at": "2026-09-01T06:05:36Z",
    "lists": [
     "其他与杂项"
    ]

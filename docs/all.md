@@ -1,6 +1,6 @@
 # 📦 全量索引
 
-> 全部 **1387** 个 Star 项目,按 ⭐ 排序
+> 全部 **1386** 个 Star 项目,按 ⭐ 排序
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
@@ -1389,7 +1389,6 @@
 | [holtwood-projects/meta-human](https://github.com/holtwood-projects/meta-human) | ⭐ 1 | TypeScript | 浏览器原生 3D 数字人引擎,集成语音与对话 | Browser-native 3D digital human engine with speech and… |
 | [holtwood-projects/yolo-toys](https://github.com/holtwood-projects/yolo-toys) | ⭐ 1 | Python | 多模型视觉推理服务:YOLOv8 / DETR / OWL-ViT / Grounding DINO / BLIP 统一 FastAPI 接口 | Unifie… |
 | [holtwood-systems/paged-serving](https://github.com/holtwood-systems/paged-serving) | ⭐ 1 | Rust | Rust LLM Serving 控制面：Paged KV、continuous batching、OpenAI SSE、C ABI 后端与可信压测 |
-| [holtwood/agent-skills-kit](https://github.com/holtwood/agent-skills-kit) | ⭐ 1 | Python | 自用 Agent Skills 集合：截图捕获、截图装框、架构图生成、GitHub Pages 配置等，兼容 Claude Code / opencode |
 | [holtwood/awesome-compression](https://github.com/holtwood/awesome-compression) | ⭐ 1 |  | 精选数据压缩（无损）算法、库、工具与学习资源，面向中文社区 |
 
 ---
