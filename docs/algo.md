@@ -8,7 +8,7 @@
 |------|------|------|------|
 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | ⭐ 378.7k | Python | 学习如何设计大规模系统，备战系统设计面试，包含Anki闪卡。 |
 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | ⭐ 364.7k |  | 一份成为软件工程师的完整计算机科学学习计划 |
-| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | ⭐ 226.3k | Python | 用Python实现的所有算法 |
+| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | ⭐ 226.4k | Python | 用Python实现的所有算法 |
 | [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) | ⭐ 186.6k | JavaScript | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
 | [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | ⭐ 136.1k | Markdown | 破解LeetCode，不仅要知其然，更要知其所以然。 |
 | [doocs/advanced-java](https://github.com/doocs/advanced-java) | ⭐ 79.2k | Java | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers |… |
@@ -20,7 +20,7 @@
 | [huihut/interview](https://github.com/huihut/interview) | ⭐ 38.3k | C++ | 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository… |
 | [doocs/leetcode](https://github.com/doocs/leetcode) | ⭐ 36.8k | Java | 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第… |
 | [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) | ⭐ 36.1k | Java | 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹… |
-| [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems) | ⭐ 35.5k |  | 按公司分类的题目列表。companies 目录下每个 csv 文件对应特定公司根据 LeetCode 公司标签整理的 Leetcode 题目列表，更新至 202… |
+| [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems) | ⭐ 35.6k |  | 按公司分类的题目列表。companies 目录下每个 csv 文件对应特定公司根据 LeetCode 公司标签整理的 Leetcode 题目列表，更新至 202… |
 | [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) | ⭐ 33.8k | Go | ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode… |
 | [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) | ⭐ 32.0k | Python | 120余道Python算法与数据结构交互式编程面试题，附带Anki闪卡。 |
 | [forthespada/CS-Books](https://github.com/forthespada/CS-Books) | ⭐ 28.1k |  | 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算… |

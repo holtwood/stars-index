@@ -21,7 +21,7 @@
 | [mikolmogorov/Flye](https://github.com/mikolmogorov/Flye) | ⭐ 959 | C | 基于重复图谱的单分子测序读段从头组装工具 |
 | [bwa-mem2/bwa-mem2](https://github.com/bwa-mem2/bwa-mem2) | ⭐ 870 | C++ | bwa-mem 的下一代版本 |
 | [openwdl/wdl](https://github.com/openwdl/wdl) | ⭐ 855 |  | 工作流描述语言（WDL）规范 |
-| [crazyhottommy/scRNAseq-analysis-notes](https://github.com/crazyhottommy/scRNAseq-analysis-notes) | ⭐ 845 |  | Ming Tang 的单细胞 RNA 测序分析笔记 |
+| [crazyhottommy/scRNAseq-analysis-notes](https://github.com/crazyhottommy/scRNAseq-analysis-notes) | ⭐ 846 |  | Ming Tang 的单细胞 RNA 测序分析笔记 |
 | [mdozmorov/scRNA-seq_notes](https://github.com/mdozmorov/scRNA-seq_notes) | ⭐ 831 | R | 单细胞RNA测序分析工具清单 |
 | [bebop/poly](https://github.com/bebop/poly) | ⭐ 740 | Go | 用于工程改造生物体的Go包 |
 | [OysterQAQ/ACG2vec](https://github.com/OysterQAQ/ACG2vec) | ⭐ 579 |  | ACG2vec (Anime Comics Games to vector) are committed to creating a playground th… |
@@ -29,7 +29,7 @@
 | [10XGenomics/cellranger](https://github.com/10XGenomics/cellranger) | ⭐ 481 | Rust | 10x Genomics 单细胞分析 |
 | [seqan/seqan3](https://github.com/seqan/seqan3) | ⭐ 465 | C++ | 用于序列分析的现代C++库，包含该库的第3版本及API文档。 |
 | [openbiox/weekly](https://github.com/openbiox/weekly) | ⭐ 461 | HTML | 生信爱好者周刊（每周日发布） |
-| [gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics) | ⭐ 402 |  |  |
+| [gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics) | ⭐ 401 |  |  |
 | [obophenotype/human-phenotype-ontology](https://github.com/obophenotype/human-phenotype-ontology) | ⭐ 388 | Makefile | 用于描述人类临床特征的本体 |
 | [Ming-Lian/NGS-analysis](https://github.com/Ming-Lian/NGS-analysis) | ⭐ 380 |  | 二代测序数据分析 |
 | [brentp/goleft](https://github.com/brentp/goleft) | ⭐ 227 | Go | goleft 是遵循 MIT 许可证分发的生物信息学工具合集，打包为单个静态二进制文件 |

@@ -17,7 +17,7 @@
 | [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) | ⭐ 31.1k |  | 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。 |
 | [aosabook/500lines](https://github.com/aosabook/500lines) | ⭐ 29.6k | JavaScript | 500行以内项目 |
 | [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) | ⭐ 28.9k | TypeScript | 几秒即可克隆复刻任意网站，生成现代化 React 应用 |
-| [readest/readest](https://github.com/readest/readest) | ⭐ 26.5k | TypeScript | Readest 是为深度阅读爱好者打造的现代化多功能电子书阅读器，可提供流畅跨平台访问、强大工具与直观界面，全方位提升你的阅读体验。 |
+| [readest/readest](https://github.com/readest/readest) | ⭐ 26.6k | TypeScript | Readest 是为深度阅读爱好者打造的现代化多功能电子书阅读器，可提供流畅跨平台访问、强大工具与直观界面，全方位提升你的阅读体验。 |
 | [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) | ⭐ 20.3k | JavaScript | 一个轻量的 Vue2.0 后台管理模板 |
 | [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) | ⭐ 19.7k | JavaScript | 用于本地文件共享的渐进式Web应用 |
 | [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) | ⭐ 19.6k | Vue | Vue3、Element Plus、typescript后台管理系统 |
@@ -62,7 +62,7 @@
 | [ButaiKirin/MicrosoftHostsPicker](https://github.com/ButaiKirin/MicrosoftHostsPicker) | ⭐ 506 | CSS | 用于筛选Microsoft服务最快IP的轻量Python脚本 |
 | [oncework/Codeexpander](https://github.com/oncework/Codeexpander) | ⭐ 475 | JavaScript | 跨平台文本扩展工具，可通过缩写快速插入代码片段、代码模板和动态内容，内置截图标注与剪贴板管理器，为开发者、创作者及日常工作流提升生产力。 |
 | [hbctraining/In-depth-NGS-Data-Analysis-Course🟡](https://github.com/hbctraining/In-depth-NGS-Data-Analysis-Course) | ⭐ 445 | HTML |  |
-| [MistRipple/ace-tool](https://github.com/MistRipple/ace-tool) | ⭐ 429 | TypeScript |  |
+| [MistRipple/ace-tool](https://github.com/MistRipple/ace-tool) | ⭐ 428 | TypeScript |  |
 | [wzdnzd/resume](https://github.com/wzdnzd/resume) | ⭐ 428 | TypeScript | 功能丰富、支持灵活自定义的简历生成工具 |
 | [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder) | ⭐ 372 | JavaScript | 一款广受欢迎的纯CSS文字肖像生成工具，用来送给你爱的人。 |
 | [rational-stars/GitHub-Freshness](https://github.com/rational-stars/GitHub-Freshness) | ⭐ 363 | JavaScript | GitHub Freshness 在线文档 |
@@ -80,7 +80,7 @@
 | [c-z-chen/contribution-heatmap](https://github.com/c-z-chen/contribution-heatmap) | ⭐ 49 | TypeScript | React 贡献热力图日历组件 |
 | [eveningwater/code-segment](https://github.com/eveningwater/code-segment) | ⭐ 47 | HTML | 一个代码片段的集合 |
 | [aeroidesdev/deep-think🔀](https://github.com/aeroidesdev/deep-think) | ⭐ 45 | JavaScript | 基于 IMO25 和 Deep Research 的 Deep Think Agent |
-| [CY-Christin/CY-Christin-Blog](https://github.com/CY-Christin/CY-Christin-Blog) | ⭐ 41 | TypeScript | 偏 Code，偶尔写写随笔。 |
+| [CY-Christin/CY-Christin-Blog](https://github.com/CY-Christin/CY-Christin-Blog) | ⭐ 42 | TypeScript | 偏 Code，偶尔写写随笔。 |
 | [JiangWay/OpenSpec🔀](https://github.com/JiangWay/OpenSpec) | ⭐ 30 | TypeScript | 适用于AI编码助手的规范驱动开发（SDD） |
 | [wefantasy/collector](https://github.com/wefantasy/collector) | ⭐ 30 | Svelte | Collector 是一个简约个人导航站点，帮助您高效管理和分类收藏的网站。 |
 | [madlifer/BentoGrid-Html-Slide](https://github.com/madlifer/BentoGrid-Html-Slide) | ⭐ 28 | HTML | 便当网格风格幻灯片模板 |
