@@ -6,10 +6,10 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [mattpocock/skills](https://github.com/mattpocock/skills) | ⭐ 330.6k | Shell | 真正工程师必备技能，直接来自我的.agents目录。 |
-| [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | ⭐ 200.6k | Batchfile | 开源Windows和Office激活工具，支持HWID、Ohook、TSforge和在线KMS激活方式，同时具备高级故障排查功能 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | ⭐ 331.5k | Shell | 真正工程师必备技能，直接来自我的.agents目录。 |
+| [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | ⭐ 200.7k | Batchfile | 开源Windows和Office激活工具，支持HWID、Ohook、TSforge和在线KMS激活方式，同时具备高级故障排查功能 |
 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | ⭐ 162.8k |  | 掌握命令行，只需一页 |
-| [tw93/Mole](https://github.com/tw93/Mole) | ⭐ 75.9k | Shell | 🐹 清理、卸载、分析、优化与监控你的 Mac。免费开源命令行工具，另有原生 Mac 应用。 |
+| [tw93/Mole](https://github.com/tw93/Mole) | ⭐ 76.0k | Shell | 🐹 清理、卸载、分析、优化与监控你的 Mac。免费开源命令行工具，另有原生 Mac 应用。 |
 | [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | ⭐ 64.4k | Zig | 👻 Ghostty 是一款快速、功能丰富的跨平台终端模拟器，采用平台原生 UI 与 GPU 加速。 |
 | [files-community/Files](https://github.com/files-community/Files) | ⭐ 46.8k | C# | 一款可帮助用户整理文件与文件夹的现代化文件管理器 |
 | [HeyPuter/puter](https://github.com/HeyPuter/puter) | ⭐ 44.2k | TypeScript | 🌐 Internet Computer！免费开源，可自行托管。 |
@@ -17,7 +17,7 @@
 | [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | ⭐ 39.4k | C# | :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） |
 | [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) | ⭐ 34.7k |  | 解锁你的 Mac 显示器！支持灵活的 HiDPI 缩放、XDR/HDR 额外亮度、虚拟屏幕、DDC 控制、深度调光、画中画/投屏、EDID 覆盖等更多功能！ |
 | [microsoft/WSL](https://github.com/microsoft/WSL) | ⭐ 34.5k | C++ | 适用于 Linux 的 Windows 子系统 |
-| [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | ⭐ 29.8k | Python | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Fon… |
+| [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | ⭐ 29.9k | Python | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Fon… |
 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | ⭐ 28.9k | Swift | 基于 Ghostty 开源改造的 macOS 终端，支持垂直标签页与 AI 编码代理通知，专为多任务处理、有序组织与可编程性打造。 |
 | [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) | ⭐ 27.2k | C# | UniGetUI：你的包管理器图形界面。可以夸张地说，它是用来管理多个包管理器的「包管理器的管理器」。 |
 | [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) | ⭐ 27.2k | Python | An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWO… |
@@ -35,7 +35,7 @@
 | [muesli/duf](https://github.com/muesli/duf) | ⭐ 15.4k | Go | 磁盘使用率/剩余空间工具——更好的df替代品 |
 | [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) | ⭐ 15.1k | C# | 为 Windows 任务栏提供全方面整合。 |
 | [drogonframework/drogon](https://github.com/drogonframework/drogon) | ⭐ 14.4k | C++ | Drogon：一个支持C++14/17/20、可运行在Linux/macOS/Unix/Windows上的HTTP Web应用框架 |
-| [ClementTsang/bottom](https://github.com/ClementTsang/bottom) | ⭐ 14.2k | Rust | 又一款跨平台图形化进程/系统监视器 |
+| [ClementTsang/bottom](https://github.com/ClementTsang/bottom) | ⭐ 14.3k | Rust | 又一款跨平台图形化进程/系统监视器 |
 | [bin456789/reinstall](https://github.com/bin456789/reinstall) | ⭐ 14.2k | Shell | 一键DD/重装脚本 (One-click reinstall OS on VPS) |
 | [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) | ⭐ 14.0k | CSS | Tomorrow 主题 |
 | [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) | ⭐ 13.1k | Shell |  |
@@ -48,7 +48,7 @@
 | [Tencent/libco](https://github.com/Tencent/libco) | ⭐ 8.7k | C++ | libco 是一款广泛应用于微信后端服务的协程库，自2013年起已在数万台机器上稳定运行。 |
 | [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) | ⭐ 8.4k |  | OpenSSH 的 Win32 移植版 |
 | [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) | ⭐ 8.2k | Vue | 基于 Wails (Go) 和 Vue 3 构建的现代化轻量桌面应用，高效跨平台，启动运行迅速。 |
-| [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | ⭐ 7.5k | TypeScript | 集SSH工作区、SFTP和终端于一体 |
+| [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | ⭐ 7.6k | TypeScript | 集SSH工作区、SFTP和终端于一体 |
 | [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) | ⭐ 6.4k |  |  |
 | [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) | ⭐ 6.2k | C++ | Taskwarrior - 命令行任务管理工具 |
 | [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web) | ⭐ 5.6k | TypeScript | 一个定会让你觉得好用的远程调试平台，轻量、跨平台、开箱即用的调试工具 |
@@ -59,7 +59,7 @@
 | [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) | ⭐ 4.3k | C++ | 用于管理 Windows Subsystem for Linux (WSL) 的全功能实用工具 |
 | [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) | ⭐ 3.9k | CSS | 适用于 Firefox 的 GNOME 主题 |
 | [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) | ⭐ 3.9k | Java | 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K) |
-| [TermoraDev/termora](https://github.com/TermoraDev/termora) | ⭐ 3.8k | Kotlin | Termora 是适用于 Windows、macOS 和 Linux 的终端模拟器与 SSH 客户端。 |
+| [TermoraDev/termora](https://github.com/TermoraDev/termora) | ⭐ 3.9k | Kotlin | Termora 是适用于 Windows、macOS 和 Linux 的终端模拟器与 SSH 客户端。 |
 | [typcn/bilibili-mac-client](https://github.com/typcn/bilibili-mac-client) | ⭐ 3.8k | Objective-C | 适用于 Mac 的非官方哔哩哔哩客户端 |
 | [SuxueCode/WechatBakTool](https://github.com/SuxueCode/WechatBakTool) | ⭐ 3.7k |  | 基于C#的微信PC版聊天记录备份工具，提供图形界面，解密微信数据库并导出聊天记录。 |
 | [ssbc/patchwork🟡](https://github.com/ssbc/patchwork) | ⭐ 3.6k | JavaScript | 一款基于 Secure Scuttlebutt (SSB) 构建的去中心化消息与分享应用 |
@@ -103,13 +103,13 @@
 | [Buernia/Zhudou-Sans](https://github.com/Buernia/Zhudou-Sans) | ⭐ 950 |  | 煮豆黑体，Noto 风格中日韩标点符号字体。A font family for CJK symbols and punctuation, derived fro… |
 | [jalammar/jalammar.github.io🔀](https://github.com/jalammar/jalammar.github.io) | ⭐ 885 | HTML | 无需触碰命令行，数分钟即可搭建Jekyll博客 |
 | [ButTaiwan/gensen-font](https://github.com/ButTaiwan/gensen-font) | ⭐ 880 |  | 源自Source Han Sans的免费字体系列。 |
-| [ahpxex/Aictionary](https://github.com/ahpxex/Aictionary) | ⭐ 852 | TypeScript | 另一款桌面词典，但速度快得多，释义更丰富，助你真正通晓语言。 |
-| [DJB-Developer/wechat-android-history-versions](https://github.com/DJB-Developer/wechat-android-history-versions) | ⭐ 823 | JavaScript | 微信Android 微信安卓版 微信安卓 历史版本 官方下载地址 |
+| [ahpxex/Aictionary](https://github.com/ahpxex/Aictionary) | ⭐ 853 | TypeScript | 另一款桌面词典，但速度快得多，释义更丰富，助你真正通晓语言。 |
+| [DJB-Developer/wechat-android-history-versions](https://github.com/DJB-Developer/wechat-android-history-versions) | ⭐ 824 | JavaScript | 微信Android 微信安卓版 微信安卓 历史版本 官方下载地址 |
 | [dracula/jetbrains](https://github.com/dracula/jetbrains) | ⭐ 807 | Kotlin | 适用于 JetBrains IDEs 的深色主题 |
 | [lcomplete/TechShare](https://github.com/lcomplete/TechShare) | ⭐ 800 | Vue | 🌟 分享效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 和有趣内容 😄。💌 当有重要的事情需要分享时会发送 newsletter。 |
 | [wzsx150/MobaXterm_CN](https://github.com/wzsx150/MobaXterm_CN) | ⭐ 663 |  | MobaXterm 综合远程工具 汉化版 |
 | [mhartington/dotfiles](https://github.com/mhartington/dotfiles) | ⭐ 627 | Lua |  |
-| [CyanoHao/Resource-Han-Rounded](https://github.com/CyanoHao/Resource-Han-Rounded) | ⭐ 611 | JavaScript | Resource Han Rounded，一款源自Source Han Sans的圆角字体家族。 |
+| [CyanoHao/Resource-Han-Rounded](https://github.com/CyanoHao/Resource-Han-Rounded) | ⭐ 612 | JavaScript | Resource Han Rounded，一款源自Source Han Sans的圆角字体家族。 |
 | [vannvan/yuque-tools](https://github.com/vannvan/yuque-tools) | ⭐ 556 | TypeScript | 🧰 玩转语雀-朴实无华的语雀资源导出工具，语雀知识库+团队资源批量导出/备份工具(无需Token) |
 | [maxsky/Yahei-Monaco-Hybrid-Font](https://github.com/maxsky/Yahei-Monaco-Hybrid-Font) | ⭐ 462 |  | Microsoft Yahei UI Regular & Apple Monaco Hybrid. 微软雅黑和 Monaco 字体混合版【禁止他用】 |
 | [DoooReyn/WxRead-WebAutoReader](https://github.com/DoooReyn/WxRead-WebAutoReader) | ⭐ 458 |  | 微信读书自动阅读器，全自动刷阅读时长，轻轻松松冲顶霸榜，您的微读挂机好帮手 |
