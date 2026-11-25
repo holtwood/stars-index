@@ -2,12 +2,14 @@
 
 > 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists](https://github.com/holtwood?tab=stars) 同步
 
-![项目数](https://img.shields.io/badge/Star_项目-1388-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--11--24-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
+![项目数](https://img.shields.io/badge/Star_项目-1390-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--11--25-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
 
-> 📈 **1388** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
+> 📈 **1390** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
 
 ## 🔥 最近收藏
 
+- ⭐ [DancingLi/LiteAsk](https://github.com/DancingLi/LiteAsk) — Lightweight cross-platform (macOS & Windows) AI selection tr… `2026-11-24`
+- ⭐ [Theproudcold/sea-resume](https://github.com/Theproudcold/sea-resume) — 纯前端的简历工作台：6 套模板、岗位版本管理与差异比较、自带 API Key 的 AI 助手、可搜索 PDF 导出。无后… `2026-11-24`
 - ⭐ [datawhalechina/zero-to-sglang](https://github.com/datawhalechina/zero-to-sglang) — Official SGLang x Datawhale course on LLM inference: underst… `2026-11-20`
 - ⭐ [guotree/magpie-websearch](https://github.com/guotree/magpie-websearch) — 给 magpie 更多搜索方式：一个插件，持续接入更多搜索 API。More web search for magpie… `2026-11-08`
 - ⭐ [TooonyChen/finallyshell](https://github.com/TooonyChen/finallyshell) — 类finalshell的ssh客户端 // An source-available finalshell copy, w… `2026-11-08`
@@ -21,8 +23,6 @@
 - ⭐ [Saivineeth147/lora-speedrun](https://github.com/Saivineeth147/lora-speedrun) — Speedrunning LoRA fine-tuning: frozen task, frozen hardware,… `2026-10-28`
 - ⭐ [gpu-mode/reference-kernels](https://github.com/gpu-mode/reference-kernels) — Official Problem Sets / Reference Kernels for the GPU MODE L… `2026-10-21`
 - ⭐ [flagos-ai/FlagGems-sglang](https://github.com/flagos-ai/FlagGems-sglang) — FlagGems-sglang is part of FlagOS. It is a high-performance… `2026-10-21`
-- ⭐ [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) — DeepInfer: High-performance, large-scale inference framework… `2026-10-20`
-- ⭐ [deepseek-ai/deepseek-recipe](https://github.com/deepseek-ai/deepseek-recipe) —  `2026-10-20`
 
 ## 📑 分类导航
 
@@ -46,11 +46,11 @@
 | 🧬 生物信息 | 51 | `█░░░░░░░░░░░░░░░` (4%) | [docs/bio.md](docs/bio.md) |
 | 📚 学习资源与清单 | 224 | `███░░░░░░░░░░░░░` (16%) | [docs/learning.md](docs/learning.md) |
 | 🎯 面试资料 | 15 | `█░░░░░░░░░░░░░░░` (1%) | [docs/interview.md](docs/interview.md) |
-| 📦 其他与杂项 | 96 | `█░░░░░░░░░░░░░░░` (7%) | [docs/misc.md](docs/misc.md) |
+| 📦 其他与杂项 | 98 | `█░░░░░░░░░░░░░░░` (7%) | [docs/misc.md](docs/misc.md) |
 
 ## 📊 快速入口
 
-- 📦 [全量索引(1388)](docs/all.md) — 所有项目按 ⭐ 排序
+- 📦 [全量索引(1390)](docs/all.md) — 所有项目按 ⭐ 排序
 - 🗣️ [按语言浏览](docs/by-language.md) — 语言分布一览
 
 ## 🔄 自动同步

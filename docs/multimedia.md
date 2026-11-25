@@ -8,7 +8,7 @@
 |------|------|------|------|
 | [apache/echarts](https://github.com/apache/echarts) | ⭐ 67.8k | TypeScript | Apache ECharts 是一款功能强大、可交互的浏览器端图表与数据可视化库 |
 | [team-spotube/spotube](https://github.com/team-spotube/spotube) | ⭐ 50.9k | Kotlin | 🎧 Open source music streaming app! Available for both desktop & mobile! |
-| [iina/iina](https://github.com/iina/iina) | ⭐ 47.2k | Swift | 适用于 macOS 的现代化视频播放器。 |
+| [iina/iina](https://github.com/iina/iina) | ⭐ 47.3k | Swift | 适用于 macOS 的现代化视频播放器。 |
 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | ⭐ 40.9k | Java | 适用于 Android 的自由轻量级流媒体前端 |
 | [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | ⭐ 30.4k |  | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 |
 | [fanmingming/live](https://github.com/fanmingming/live) | ⭐ 29.0k | JavaScript | ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕 |
@@ -23,7 +23,7 @@
 | [VonChange/utao](https://github.com/VonChange/utao) | ⭐ 4.6k | JavaScript | 油桃TV 电视浏览器 可看各大卫视CCTV直播 无需电视VIP 适配爱奇艺等主流视频平台 |
 | [q191201771/lal](https://github.com/q191201771/lal) | ⭐ 3.0k | Go | 🔥 Golang audio/video live streaming lib/client/server. support RTMP, RTSP(RTP/RT… |
 | [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) | ⭐ 2.5k | TypeScript | 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成 |
-| [zkep/my-geektime](https://github.com/zkep/my-geektime) | ⭐ 837 | Go | 👏 Make learning a lifelong habit. 学无止境 |
+| [zkep/my-geektime](https://github.com/zkep/my-geektime) | ⭐ 838 | Go | 👏 Make learning a lifelong habit. 学无止境 |
 | [lylehust/Chinese-IPTV](https://github.com/lylehust/Chinese-IPTV) | ⭐ 589 |  | 中国电视频道列表（IPV6） |
 | [hooke007/mpv.net_CM🟡](https://github.com/hooke007/mpv.net_CM) | ⭐ 544 |  | 🎞 mpv.net_CM 是中文分支模组 |
 

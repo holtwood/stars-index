@@ -6,14 +6,14 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [neovim/neovim](https://github.com/neovim/neovim) | ⭐ 103.8k | Vim Script | 专注于可扩展性与易用性的 Vim 分支 |
+| [neovim/neovim](https://github.com/neovim/neovim) | ⭐ 103.9k | Vim Script | 专注于可扩展性与易用性的 Vim 分支 |
 | [coder/code-server](https://github.com/coder/code-server) | ⭐ 79.9k | TypeScript | 浏览器中的 VS Code |
 | [amix/vimrc](https://github.com/amix/vimrc) | ⭐ 31.8k | Vim Script | 终极 Vim 配置（vimrc） |
 | [wsdjeg/SpaceVim🟡](https://github.com/wsdjeg/SpaceVim) | ⭐ 20.2k | Vim Script | 模块化的 Vim 与 Neovim 配置 |
 | [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) | ⭐ 19.2k | Lua | 🌙 LunarVim 是面向 Neovim 的 IDE 功能层，完全免费且由社区驱动开发。 |
 | [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) | ⭐ 14.8k | C++ | Notepad++ 的跨平台重实现版本 |
 | [vnotex/vnote](https://github.com/vnotex/vnote) | ⭐ 13.1k | C++ | 使用原生C++打造的舒适笔记平台。 |
-| [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) | ⭐ 13.0k | TypeScript |  |
+| [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) | ⭐ 13.1k | TypeScript |  |
 | [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) | ⭐ 12.3k | TypeScript | 在 Obsidian.md 中集成 Git 版本控制，支持自动提交同步与其他高级功能 |
 | [Milkdown/milkdown](https://github.com/Milkdown/milkdown) | ⭐ 12.1k | TypeScript | 🍼 插件驱动的所见即所得 Markdown 编辑器框架。 |
 | [wsdjeg/vim-galore-zh_cn🟡](https://github.com/wsdjeg/vim-galore-zh_cn) | ⭐ 10.6k | Vim Script | Vim 从入门到精通 |
@@ -28,11 +28,11 @@
 | [blossom-editor/blossom](https://github.com/blossom-editor/blossom) | ⭐ 3.8k | Java | A markdown editor that you can deploy on your own servers to achieve cloud stora… |
 | [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) | ⭐ 3.3k | TypeScript | Markdown 全能工具 |
 | [haierkeys/obsidian-fast-note-sync](https://github.com/haierkeys/obsidian-fast-note-sync) | ⭐ 3.2k | JavaScript | Can be privately deployed, focusing on providing Obsidian users with a seamless,… |
-| [liuchengxu/space-vim](https://github.com/liuchengxu/space-vim) | ⭐ 2.8k | Vim Script | 🍀 精简紧凑、类Spacemacs的Vim发行版 |
+| [liuchengxu/space-vim](https://github.com/liuchengxu/space-vim) | ⭐ 2.9k | Vim Script | 🍀 精简紧凑、类Spacemacs的Vim发行版 |
 | [platers/obsidian-linter](https://github.com/platers/obsidian-linter) | ⭐ 2.1k | TypeScript | 这是一款 Obsidian 插件，专注于可配置性与可扩展性，为你的笔记设置格式与样式。 |
 | [gcui-art/markdown-to-image](https://github.com/gcui-art/markdown-to-image) | ⭐ 2.0k | TypeScript | 此 React 组件可将 Markdown 渲染为精美海报图，支持复制为图片，支持将 Markdown 转换为海报/图片/引言卡片/社交卡片，适用于 Insta… |
 | [rohit-px2/nvui](https://github.com/rohit-px2/nvui) | ⭐ 1.7k | C++ | Neovim 的现代化前端界面 |
-| [Auto-Plugin/milkup](https://github.com/Auto-Plugin/milkup) | ⭐ 965 | TypeScript | A cross-platform, instant-rendering desktop Markdown editor 一个跨平台的、即时渲染桌面端 Markd… |
+| [Auto-Plugin/milkup](https://github.com/Auto-Plugin/milkup) | ⭐ 966 | TypeScript | A cross-platform, instant-rendering desktop Markdown editor 一个跨平台的、即时渲染桌面端 Markd… |
 | [MikeWang000000/vscode-server-centos7](https://github.com/MikeWang000000/vscode-server-centos7) | ⭐ 468 | C | 在 RHEL/CentOS 7 上运行最新版 vscode-server！ |
 | [wshuyi/demo-notion-markdown-exporter](https://github.com/wshuyi/demo-notion-markdown-exporter) | ⭐ 421 | Python |  |
 | [atian25/yuque-exporter](https://github.com/atian25/yuque-exporter) | ⭐ 369 | TypeScript | 将语雀导出为本地 Markdown 文件 |
