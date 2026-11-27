@@ -35,13 +35,13 @@
 | [brentp/goleft](https://github.com/brentp/goleft) | ⭐ 227 | Go | goleft 是遵循 MIT 许可证分发的生物信息学工具合集，打包为单个静态二进制文件 |
 | [PacktPublishing/Bioinformatics-with-Python-Cookbook-third-edition](https://github.com/PacktPublishing/Bioinformatics-with-Python-Cookbook-third-edition) | ⭐ 218 | Python | Python生物信息学 cookbook 第三版 |
 | [BGI-HangzhouAI/Genos](https://github.com/BGI-HangzhouAI/Genos) | ⭐ 188 | Jupyter Notebook | 基因组基础大模型 |
-| [MGI-tech-bioinformatics/DNBelab_C_Series_HT_scRNA-analysis-software](https://github.com/MGI-tech-bioinformatics/DNBelab_C_Series_HT_scRNA-analysis-software) | ⭐ 165 | HTML | 用于灵活、高性能分析DNBelab C系列单细胞数据的官方流程。 |
+| [MGI-tech-bioinformatics/DNBelab_C_Series_HT_scRNA-analysis-software](https://github.com/MGI-tech-bioinformatics/DNBelab_C_Series_HT_scRNA-analysis-software) | ⭐ 166 | HTML | 用于灵活、高性能分析DNBelab C系列单细胞数据的官方流程。 |
+| [hbctraining/Intro-to-bulk-RNAseq](https://github.com/hbctraining/Intro-to-bulk-RNAseq) | ⭐ 158 | HTML | 批量RNA-seq入门 |
 | [OpenGene/repaq](https://github.com/OpenGene/repaq) | ⭐ 158 | C | 具备超高压缩比的高速无损FASTQ压缩器 |
 | [shubhamchandak94/Spring](https://github.com/shubhamchandak94/Spring) | ⭐ 158 | C | FASTQ 压缩 |
-| [hbctraining/Intro-to-bulk-RNAseq](https://github.com/hbctraining/Intro-to-bulk-RNAseq) | ⭐ 157 | HTML | 批量RNA-seq入门 |
 | [grimmlab/MicrobiomeBestPracticeReview](https://github.com/grimmlab/MicrobiomeBestPracticeReview) | ⭐ 129 | Shell | 基于扩增子和宏基因组测序的微生物组分析当前挑战与最佳实践方案 |
 | [biocaml/biocaml](https://github.com/biocaml/biocaml) | ⭐ 123 | OCaml | OCaml 生物信息学库 |
-| [BGI-flexlab/SOAPnuke](https://github.com/BGI-flexlab/SOAPnuke) | ⭐ 118 | C++ | 用于对FASTQ或BAM/CRAM文件进行整合质控与预处理的工具 |
+| [BGI-flexlab/SOAPnuke](https://github.com/BGI-flexlab/SOAPnuke) | ⭐ 119 | C++ | 用于对FASTQ或BAM/CRAM文件进行整合质控与预处理的工具 |
 | [broadinstitute/genomics-in-the-cloud](https://github.com/broadinstitute/genomics-in-the-cloud) | ⭐ 103 | Jupyter Notebook | O'Reilly 图书的源代码及相关资料 |
 | [YeoLab/single-cell-bioinformatics🟡](https://github.com/YeoLab/single-cell-bioinformatics) | ⭐ 100 | Jupyter Notebook | 学习单细胞生物信息学方法的Notebook格式课程资料 |
 | [vertgenlab/gonomics](https://github.com/vertgenlab/gonomics) | ⭐ 95 | Go | 用 Go（golang）编写的一组基因组学软件工具集合 |

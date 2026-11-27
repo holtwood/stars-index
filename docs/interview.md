@@ -6,7 +6,7 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) | ⭐ 47.0k |  | 学习如何设计大规模系统，备战系统设计面试 |
+| [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) | ⭐ 47.1k |  | 学习如何设计大规模系统，备战系统设计面试 |
 | [huihut/interview](https://github.com/huihut/interview) | ⭐ 38.3k | C++ | 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository… |
 | [taizilongxu/interview_python](https://github.com/taizilongxu/interview_python) | ⭐ 17.4k | Shell | 关于Python的面试题 |
 | [andkret/Cookbook](https://github.com/andkret/Cookbook) | ⭐ 15.6k | Python | 数据工程实战手册 |
@@ -20,7 +20,7 @@
 | [genieincodebottle/generative-ai](https://github.com/genieincodebottle/generative-ai) | ⭐ 2.7k | Jupyter Notebook | 生成式AI综合资源库，包含详细路线图、项目、应用场景、面试准备与编程准备内容。 |
 | [RezaSi/go-interview-practice](https://github.com/RezaSi/go-interview-practice) | ⭐ 2.5k | Go | 交互式Go面试平台——包含30+编程挑战，提供即时反馈、AI面试模拟、竞技排行榜和自动化测试，覆盖从入门到进阶全等级，场景贴合实际开发。 |
 | [AniruddhaChattopadhyay/Books](https://github.com/AniruddhaChattopadhyay/Books) | ⭐ 1.9k |  |  |
-| [jingtian11/EasyOffer](https://github.com/jingtian11/EasyOffer) | ⭐ 829 | Jupyter Notebook | 《EasyOffer》（<大模型面经合集>）是针对LLM宝宝们量身打造的大模型暑期实习Offer指南，主要记录大模型暑期实习和秋招准备的一些常见大厂手撕代码、大… |
+| [jingtian11/EasyOffer](https://github.com/jingtian11/EasyOffer) | ⭐ 830 | Jupyter Notebook | 《EasyOffer》（<大模型面经合集>）是针对LLM宝宝们量身打造的大模型暑期实习Offer指南，主要记录大模型暑期实习和秋招准备的一些常见大厂手撕代码、大… |
 
 ---
 [⬆ 返回顶部](#top)
