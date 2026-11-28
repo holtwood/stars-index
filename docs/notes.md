@@ -6,14 +6,14 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [neovim/neovim](https://github.com/neovim/neovim) | ⭐ 104.0k | Vim Script | 专注于可扩展性与易用性的 Vim 分支 |
+| [neovim/neovim](https://github.com/neovim/neovim) | ⭐ 103.9k | Vim Script | 专注于可扩展性与易用性的 Vim 分支 |
 | [coder/code-server](https://github.com/coder/code-server) | ⭐ 80.0k | TypeScript | 浏览器中的 VS Code |
 | [amix/vimrc](https://github.com/amix/vimrc) | ⭐ 31.8k | Vim Script | 终极 Vim 配置（vimrc） |
 | [wsdjeg/SpaceVim🟡](https://github.com/wsdjeg/SpaceVim) | ⭐ 20.2k | Vim Script | 模块化的 Vim 与 Neovim 配置 |
 | [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) | ⭐ 19.2k | Lua | 🌙 LunarVim 是面向 Neovim 的 IDE 功能层，完全免费且由社区驱动开发。 |
 | [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) | ⭐ 14.8k | C++ | Notepad++ 的跨平台重实现版本 |
-| [vnotex/vnote](https://github.com/vnotex/vnote) | ⭐ 13.1k | C++ | 使用原生C++打造的舒适笔记平台。 |
 | [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) | ⭐ 13.1k | TypeScript |  |
+| [vnotex/vnote](https://github.com/vnotex/vnote) | ⭐ 13.1k | C++ | 使用原生C++打造的舒适笔记平台。 |
 | [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) | ⭐ 12.3k | TypeScript | 在 Obsidian.md 中集成 Git 版本控制，支持自动提交同步与其他高级功能 |
 | [Milkdown/milkdown](https://github.com/Milkdown/milkdown) | ⭐ 12.1k | TypeScript | 🍼 插件驱动的所见即所得 Markdown 编辑器框架。 |
 | [wsdjeg/vim-galore-zh_cn🟡](https://github.com/wsdjeg/vim-galore-zh_cn) | ⭐ 10.6k | Vim Script | Vim 从入门到精通 |
@@ -35,7 +35,7 @@
 | [Auto-Plugin/milkup](https://github.com/Auto-Plugin/milkup) | ⭐ 966 | TypeScript | A cross-platform, instant-rendering desktop Markdown editor 一个跨平台的、即时渲染桌面端 Markd… |
 | [MikeWang000000/vscode-server-centos7](https://github.com/MikeWang000000/vscode-server-centos7) | ⭐ 468 | C | 在 RHEL/CentOS 7 上运行最新版 vscode-server！ |
 | [wshuyi/demo-notion-markdown-exporter](https://github.com/wshuyi/demo-notion-markdown-exporter) | ⭐ 421 | Python |  |
-| [atian25/yuque-exporter](https://github.com/atian25/yuque-exporter) | ⭐ 369 | TypeScript | 将语雀导出为本地 Markdown 文件 |
+| [atian25/yuque-exporter](https://github.com/atian25/yuque-exporter) | ⭐ 370 | TypeScript | 将语雀导出为本地 Markdown 文件 |
 | [dracula/notepad-plus-plus](https://github.com/dracula/notepad-plus-plus) | ⭐ 367 | TypeScript | 适用于 Notepad++ 的深色主题 |
 | [renyunkang/yuque-exporter](https://github.com/renyunkang/yuque-exporter) | ⭐ 334 | JavaScript | 用于将语雀文档导出为Markdown的工具。 |
 | [zhangguixu/window-vim](https://github.com/zhangguixu/window-vim) | ⭐ 68 | Vim script | 在windows环境下折腾vim，搭建前端开发环境，不定期更新 |

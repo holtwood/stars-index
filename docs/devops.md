@@ -7,10 +7,10 @@
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | ⭐ 79.6k | Go | 快速可扩展的多平台 HTTP/1-2-3 Web 服务器，自带自动 HTTPS |
-| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | ⭐ 71.6k | Rust | 用 Rust 编写的非官方兼容 Bitwarden 的服务端，曾用名 bitwarden_rs |
+| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | ⭐ 71.7k | Rust | 用 Rust 编写的非官方兼容 Bitwarden 的服务端，曾用名 bitwarden_rs |
 | [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) | ⭐ 53.0k | Shell | 在 Docker 中运行 macOS 虚拟机！在 Docker 中运行接近原生性能的 OSX-KVM！支持 X11 转发！适用于 OS X 安全研究的 CI/C… |
 | [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) | ⭐ 39.1k | TypeScript | 使用 Trilium Notes 构建你的个人知识库 |
-| [nginx/nginx](https://github.com/nginx/nginx) | ⭐ 33.5k | C | NGINX 开源版官方仓库。 |
+| [nginx/nginx](https://github.com/nginx/nginx) | ⭐ 33.7k | C | NGINX 开源版官方仓库。 |
 | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | ⭐ 30.9k | TypeScript | 支持自托管的全类型书签应用，可收纳链接、笔记与图片，带AI自动 tagging 和全文搜索 |
 | [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | ⭐ 19.8k | Shell | 可用于生产环境、容器化运行、功能完整却轻量简单的邮件服务器，支持SMTP、IMAP、LDAP、反垃圾邮件、杀毒等功能。 |
 | [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) | ⭐ 11.9k | Go | Nginx 的又一个 WebUI |
@@ -21,7 +21,7 @@
 | [devcontainers/spec](https://github.com/devcontainers/spec) | ⭐ 5.9k |  | Development Containers：使用容器作为全功能开发环境。 |
 | [devtron-labs/devtron](https://github.com/devtron-labs/devtron) | ⭐ 5.6k | Go | 你所需的唯一 Kubernetes 仪表盘 |
 | [bostrot/wslmanager](https://github.com/bostrot/wslmanager) | ⭐ 4.1k | Dart | GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Ins… |
-| [devcontainers/images](https://github.com/devcontainers/images) | ⭐ 2.1k | Shell | 预构建开发容器镜像仓库，发布于 mcr.microsoft.com/devcontainers |
+| [devcontainers/images](https://github.com/devcontainers/images) | ⭐ 2.2k | Shell | 预构建开发容器镜像仓库，发布于 mcr.microsoft.com/devcontainers |
 | [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) | ⭐ 1.9k | Shell | 通过 rclone 备份 vaultwarden（原 bitwarden_rs）的 SQLite3/PostgreSQL/MySQL/MariaDB 数据库，支… |
 | [devcontainers/templates](https://github.com/devcontainers/templates) | ⭐ 1.5k | Shell | 由 Dev Container 规范维护者管理的 Dev Container 模板仓库。前往 https://github.com/devcontainers/… |
 | [kekylin/debnas](https://github.com/kekylin/debnas) | ⭐ 1.2k | Shell | 一个将Debian快速配置成准NAS系统的脚本。 |

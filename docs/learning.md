@@ -6,26 +6,26 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ⭐ 565.8k | Markdown | 通过从零重写你喜爱的技术来精通编程。 |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | ⭐ 543.5k |  | 汇集各类趣味主题的超棒精选列表【注：在我处理完现有PR前，暂时关闭拉取请求提交】 |
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | ⭐ 501.7k | Python | 免费API集合列表 |
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | ⭐ 402.3k | Python | :books: 免费开源编程书籍 |
-| [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | ⭐ 372.8k | TypeScript | 助力开发者职业成长的交互式路线图、指南及其他教育内容。 |
-| [vinta/awesome-python](https://github.com/vinta/awesome-python) | ⭐ 337.4k | Python | 专门解答「我想用Python做X该用什么工具？」的权威工具清单 |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ⭐ 566.0k | Markdown | 通过从零重写你喜爱的技术来精通编程。 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | ⭐ 544.0k |  | 汇集各类趣味主题的超棒精选列表【注：在我处理完现有PR前，暂时关闭拉取请求提交】 |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | ⭐ 501.8k | Python | 免费API集合列表 |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | ⭐ 402.4k | Python | :books: 免费开源编程书籍 |
+| [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | ⭐ 372.9k | TypeScript | 助力开发者职业成长的交互式路线图、指南及其他教育内容。 |
+| [vinta/awesome-python](https://github.com/vinta/awesome-python) | ⭐ 337.6k | Python | 专门解答「我想用Python做X该用什么工具？」的权威工具清单 |
 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ⭐ 290.6k | Python | 精选基于项目的教程列表 |
 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | ⭐ 209.4k | Markdown | 为所有人提供免费域名注册与实用DNS学习资源 |
-| [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | ⭐ 191.5k | Python | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source proj… |
+| [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | ⭐ 191.7k | Python | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source proj… |
 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | ⭐ 188.0k | Jupyter Notebook | Python - 100天从新手到大师 |
 | [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | ⭐ 119.7k |  | :books: 免费的计算机编程类中文书籍，欢迎投稿 |
-| [ruanyf/weekly](https://github.com/ruanyf/weekly) | ⭐ 108.8k |  | 科技爱好者周刊，每周五发布 |
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ⭐ 98.5k |  | MCP 服务器集合 |
+| [ruanyf/weekly](https://github.com/ruanyf/weekly) | ⭐ 108.9k |  | 科技爱好者周刊，每周五发布 |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ⭐ 98.6k |  | MCP 服务器集合 |
 | [DopplerHQ/awesome-interview-questions🟡](https://github.com/DopplerHQ/awesome-interview-questions) | ⭐ 85.8k |  | :octocat: 精心整理的面试题清单合集，欢迎贡献！ :mortar_board: |
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | ⭐ 80.4k | Python | 精选的优质Claude技能、资源与工具列表，用于定制Claude AI工作流 |
-| [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | ⭐ 79.6k | Python | 「Python编程30天挑战是一份分步骤的Python语言学习指南，总学习时长可能超过100天，你可以按照自己的节奏学习。这些视频也可能对你有帮助：https:… |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | ⭐ 80.5k | Python | 精选的优质Claude技能、资源与工具列表，用于定制Claude AI工作流 |
+| [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | ⭐ 79.7k | Python | 「Python编程30天挑战是一份分步骤的Python语言学习指南，总学习时长可能超过100天，你可以按照自己的节奏学习。这些视频也可能对你有帮助：https:… |
 | [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | ⭐ 76.9k | HTML | 计算机自学指南 |
-| [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) | ⭐ 74.6k |  | 精选的优质 C++（及 C）框架、库、资源与趣味项目列表，灵感源自各类「awesome」清单项目。 |
+| [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) | ⭐ 74.7k |  | 精选的优质 C++（及 C）框架、库、资源与趣味项目列表，灵感源自各类「awesome」清单项目。 |
 | [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) | ⭐ 73.5k |  | 精选 Vue.js 相关优质资源列表 |
-| [byoungd/up](https://github.com/byoungd/up) | ⭐ 70.9k | JavaScript | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生/人生进阶 离谱的英语学… |
+| [byoungd/up](https://github.com/byoungd/up) | ⭐ 71.0k | JavaScript | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生/人生进阶 离谱的英语学… |
 | [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | ⭐ 65.3k | CSS | 标志性字体聚合器、合集与补丁工具，拥有3600+图标、50+已补丁字体：Hack、Source Code Pro等。字符合集包括：Font Awesome、Ma… |
 | [rust-lang/rustlings](https://github.com/rust-lang/rustlings) | ⭐ 64.8k | Rust | 帮助你习惯读写Rust代码的小练习 |
 | [tldr-pages/tldr](https://github.com/tldr-pages/tldr) | ⭐ 64.3k | Markdown | 面向控制台命令的协作式速查表 📚 |
@@ -35,12 +35,12 @@
 | [docker/awesome-compose](https://github.com/docker/awesome-compose) | ⭐ 46.8k | HTML | 精选 Docker Compose 示例 |
 | [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | ⭐ 45.3k | Jupyter Notebook | 此仓库汇集了所有你学习数据工程会用到的资源链接 |
 | [chubin/cheat.sh](https://github.com/chubin/cheat.sh) | ⭐ 41.9k | Python | 你唯一需要的 cheatsheat |
-| [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | ⭐ 40.0k |  | 将DeepSeek API集成到常用软件中 |
-| [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) | ⭐ 39.4k | JavaScript | GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese) |
+| [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | ⭐ 40.1k |  | 将DeepSeek API集成到常用软件中 |
+| [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) | ⭐ 39.5k | JavaScript | GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese) |
 | [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) | ⭐ 37.3k | Markdown | Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux |
 | [open-guides/og-aws](https://github.com/open-guides/og-aws) | ⭐ 36.5k | Shell | 📙 Amazon Web Services 实用指南 |
 | [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) | ⭐ 36.3k | HTML | 程序员延寿指南 | A programmer's guide to live longer |
-| [aristocratos/btop](https://github.com/aristocratos/btop) | ⭐ 35.5k | C++ | 资源监控器 |
+| [aristocratos/btop](https://github.com/aristocratos/btop) | ⭐ 35.6k | C++ | 资源监控器 |
 | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | ⭐ 35.0k | JavaScript | Vercel 官方智能体技能合集 |
 | [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | ⭐ 31.7k |  | 😎 一份精心整理的优质 GitHub 个人主页合集，支持实时更新 |
 | [sunface/rust-course](https://github.com/sunface/rust-course) | ⭐ 31.2k | Rust | 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这… |
@@ -52,7 +52,7 @@
 | [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) | ⭐ 27.7k |  | 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 |
 | [lissy93/dashy](https://github.com/lissy93/dashy) | ⭐ 27.1k | Vue | 🚀 可自行部署的个人自定义仪表盘，支持状态检查、小组件、主题、图标包、可视化编辑器，还有超多功能！ |
 | [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) | ⭐ 26.0k | C++ | 📚 现代C++教程：C++11到C++26随用随学 | https://changkun.de/modern-cpp/ |
-| [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) | ⭐ 24.5k |  | 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】 |
+| [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) | ⭐ 24.6k |  | 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】 |
 | [Vonng/ddia](https://github.com/Vonng/ddia) | ⭐ 24.0k | Python | 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译 |
 | [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) | ⭐ 22.2k |  | TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS |
 | [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) | ⭐ 22.1k | HTML | 程序员技能图谱 |
@@ -91,8 +91,8 @@
 | [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) | ⭐ 10.0k | Python | 使用AI翻译生成双语epub电子书 |
 | [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) | ⭐ 8.8k |  | Go 语法与特性概览 |
 | [applenob/Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice) | ⭐ 8.8k | C++ | 搞定C++:punch:。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。 |
-| [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) | ⭐ 8.2k | JavaScript | 由GPT-4o与gpt-image-1生成的优质精选图像与提示词合集，探索ChatGPT和Sora创作的AI生成视觉内容，展示OpenAI先进的图像生成能力。 |
 | [xxjwxc/uber_go_guide_cn](https://github.com/xxjwxc/uber_go_guide_cn) | ⭐ 8.2k |  | Uber Go 语言编码规范中文版. The Uber Go Style Guide . |
+| [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) | ⭐ 8.2k | JavaScript | 由GPT-4o与gpt-image-1生成的优质精选图像与提示词合集，探索ChatGPT和Sora创作的AI生成视觉内容，展示OpenAI先进的图像生成能力。 |
 | [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) | ⭐ 8.1k | Go | 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt |
 | [jobbole/awesome-go-cn](https://github.com/jobbole/awesome-go-cn) | ⭐ 7.4k |  | Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（… |
 | [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) | ⭐ 7.1k | Shell | :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本 |
@@ -188,21 +188,21 @@
 | [violet7pan/XYplorer_Help](https://github.com/violet7pan/XYplorer_Help) | ⭐ 749 |  | XYplorer使用教程-原创 |
 | [JackyST0/awesome-agent-skills](https://github.com/JackyST0/awesome-agent-skills) | ⭐ 671 | JavaScript | 🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具 |
 | [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) | ⭐ 622 |  | 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。欢迎star点赞收藏👆🌟 |
-| [Lularible/storage-book](https://github.com/Lularible/storage-book) | ⭐ 590 | C | 一本关于存储技术与文件系统的开源书籍。从绳结记事到Flash物理特性，从FAT到LittleFS —— 还附带教学级日志结构嵌入式文件系统KnotFS（约840… |
+| [Lularible/storage-book](https://github.com/Lularible/storage-book) | ⭐ 591 | C | 一本关于存储技术与文件系统的开源书籍。从绳结记事到Flash物理特性，从FAT到LittleFS —— 还附带教学级日志结构嵌入式文件系统KnotFS（约840… |
 | [detailobsessed/awesome-devin](https://github.com/detailobsessed/awesome-devin) | ⭐ 546 | JavaScript | 适用于Windsurf代码编辑器的精选优质资源合集 |
-| [coderonion/awesome-cuda-and-hpc](https://github.com/coderonion/awesome-cuda-and-hpc) | ⭐ 528 |  | 🚀🚀🚀 这个仓库收录了诸多优秀的开源 CUDA、cuda-python、cuBLAS、cuDNN、CUTLASS、TensorRT、TensorRT-LLM、T… |
+| [coderonion/awesome-cuda-and-hpc](https://github.com/coderonion/awesome-cuda-and-hpc) | ⭐ 529 |  | 🚀🚀🚀 这个仓库收录了诸多优秀的开源 CUDA、cuda-python、cuBLAS、cuDNN、CUTLASS、TensorRT、TensorRT-LLM、T… |
 | [cohere-ai/notebooks🟡](https://github.com/cohere-ai/notebooks) | ⭐ 501 | Jupyter Notebook | 适用于 Cohere Platform 的代码示例与 Jupyter 笔记本 |
 | [EdisonLeeeee/Awesome-Learning-Resource](https://github.com/EdisonLeeeee/Awesome-Learning-Resource) | ⭐ 479 |  | 精心整理的各类学习资源合集，涵盖博客、书籍、视频等内容 |
-| [cocojojo5213/phonics-app](https://github.com/cocojojo5213/phonics-app) | ⭐ 468 | JavaScript | 真正从基础开始学英语 - 自然拼读练习应用 |
+| [cocojojo5213/phonics-app](https://github.com/cocojojo5213/phonics-app) | ⭐ 469 | JavaScript | 真正从基础开始学英语 - 自然拼读练习应用 |
 | [RethinkFun/DeepLearning](https://github.com/RethinkFun/DeepLearning) | ⭐ 465 | Python |  |
 | [YatSenOS/YatSenOS-Tutorial-Volume-1](https://github.com/YatSenOS/YatSenOS-Tutorial-Volume-1) | ⭐ 455 | C++ | 一个简单的32位操作系统实验教程。 |
+| [lzskyline/VocabMeld](https://github.com/lzskyline/VocabMeld) | ⭐ 453 | JavaScript | 智能替换网页词汇，创造沉浸式双语学习环境，在日常浏览中自然习得语言。 |
 | [xiaoweihan/Books](https://github.com/xiaoweihan/Books) | ⭐ 453 |  |  |
-| [lzskyline/VocabMeld](https://github.com/lzskyline/VocabMeld) | ⭐ 451 | JavaScript | 智能替换网页词汇，创造沉浸式双语学习环境，在日常浏览中自然习得语言。 |
 | [uaxe/geektime-pdfs](https://github.com/uaxe/geektime-pdfs) | ⭐ 415 |  | 👏极客时间 pdf |
 | [datawhalechina/awesome-compression](https://github.com/datawhalechina/awesome-compression) | ⭐ 391 |  | 模型压缩的小白入门教程，PDF下载地址 https://github.com/datawhalechina/awesome-compression/releas… |
 | [jstrieb/systems-programming-cheat-sheet](https://github.com/jstrieb/systems-programming-cheat-sheet) | ⭐ 385 | TeX | x86-64 Linux 系统编程速查表 |
-| [ailyanlu1/free-programming-books.pdf🔀](https://github.com/ailyanlu1/free-programming-books.pdf) | ⭐ 375 |  | 📚  技术书籍 PDF 文件，持续更新 |
 | [crazyhottommy/awesome_spatial_omics](https://github.com/crazyhottommy/awesome_spatial_omics) | ⭐ 375 |  | 空间组学工具与笔记 |
+| [ailyanlu1/free-programming-books.pdf🔀](https://github.com/ailyanlu1/free-programming-books.pdf) | ⭐ 374 |  | 📚  技术书籍 PDF 文件，持续更新 |
 | [realYurk/translation-Introduction-to-HPC](https://github.com/realYurk/translation-Introduction-to-HPC) | ⭐ 335 | C | 为 Eijhout 教授的Introduction to HPC提供中文翻译、 PPT和Lab。 |
 | [zeromake/library](https://github.com/zeromake/library) | ⭐ 332 | Python | 个人书籍目录，别 fork 了，里面没有书籍文件😱 |
 | [Lin-jun-xiang/awesome-vscode-extensions](https://github.com/Lin-jun-xiang/awesome-vscode-extensions) | ⭐ 305 | PowerShell | :gem:热门 VSCode 扩展精选 |
